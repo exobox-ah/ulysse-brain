@@ -1,7 +1,7 @@
-# 🎯 Objectif : GEF2026 - Implémenter les changements aux états financiers
-
 ## 🧠 Brainstorm / Notes
-- 
+-
+## 🎯 Definition of done
+- [ ] 
 
 ## ✅ Sous-tâches (Checklist)
 - [ ] Première étape

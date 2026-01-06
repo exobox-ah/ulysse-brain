@@ -1,7 +1,6 @@
-
 ## 🧠 Brainstorm / Notes
 - 
-# 🎯 Definition of done :
+## 🎯 Definition of done :
 - [ ] Key result
 - [ ]
 ## ✅ Sous-tâches (Checklist)

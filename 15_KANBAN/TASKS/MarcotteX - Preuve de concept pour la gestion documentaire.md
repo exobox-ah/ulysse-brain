@@ -1,9 +1,7 @@
-# 🎯 Objectif : Preuve de concept pour la gestion documentaire
-
-
 ## 🧠 Brainstorm / Notes
-- 
-
+-
+## 🎯 Definition of done
+- [ ] 
 ## ✅ Sous-tâches (Checklist)
 - [ ] Première étape
 - [ ]

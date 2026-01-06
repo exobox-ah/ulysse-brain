@@ -1,11 +1,7 @@
-## 🎯 Définition of done
-- [ ] Fichiers d’installation déposé sur FTP
-- [ ] Tests de régression simple exécutés
-
-
 ## 🧠 Brainstorm / Notes
 - 
-
+## 🎯 Definition of done
+- [ ] 
 ## ✅ Sous-tâches (Checklist)
 - [ ] Installation de SafeNet et configuration du nouveau laptop avec le Certificat
 - [ ] Migrer le projet à Visual Studio 2026
