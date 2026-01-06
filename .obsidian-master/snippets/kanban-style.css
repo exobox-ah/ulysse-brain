@@ -1,0 +1,11 @@
+/* Cible uniquement les liens DANS le plugin Kanban */
+.kanban-plugin a.internal-link {
+    color: #ffffff !important;      /* Blanc pur pour le contraste */
+    font-weight: 700 !important;    /* 700 = Gras (Bold) */
+    text-decoration: none;          /* Enlève le souligné pour alléger le visuel */
+}
+
+/* Optionnel : Le souligné réapparaît quand tu passes dessus ou cliques */
+.kanban-plugin a.internal-link:hover {
+    text-decoration: underline;
+}

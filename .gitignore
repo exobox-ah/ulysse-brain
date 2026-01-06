@@ -1,0 +1,27 @@
+# --- SYST�ME & OS ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+# --- OBSIDIAN SYSTEM ---
+# On ignore le dossier par défaut (qui sera vide ou recréé par Obsidian)
+.obsidian/
+
+# --- SLAVE (MOBILE) ---
+# On ignore totalement la config mobile (pas besoin de la versionner)
+.obsidian-slave/
+
+# --- OBSIDIAN - FICHIERS TEMPORAIRES ---
+.obsidian-master/workspace
+.obsidian-master/workspace.json
+.obsidian-master/workspace-mobile.json
+.obsidian-master/cache
+.obsidian-master/app.json
+.obsidian-master/backups
+
+# --- SYNCTHING ---
+.stfolder
+.stignore
+*.sync-conflict*
+
+# --- CONTENU ---
+.trash/
