@@ -30,21 +30,25 @@ flowchart TD
         end
     end
 
-    %% --- 3. ODOO (SaaS) ---
+	%% --- 3. ODOO (SaaS) ---
     subgraph SaaS [Odoo.sh]
-        Odoo((Odoo v17<br/>Enterprise)):::odoo
+        direction TB
+        %% Le Module Documents est maintenant explicite
+        subgraph App [Application]
+            Docs(Module Documents<br/>Interface & IA):::odoo
+            Core((Odoo Enterprise<br/>v17)):::odoo
+        end
     end
-
+    
     %% --- 4. UTILISATEURS ---
-    subgraph Local [Réseau interne Marcotte]
+    subgraph Local ["Bureaux Marcotte(Réseau interne)"]
         PC[PC Local / Laptop]:::infra
         Gateway[Gateway]:::infra
     end
 
-    %% --- 4. UTILISATEURS ---
-    subgraph Local [Réseau interne Marcotte]
-        PC[PC Local / Laptop]:::infra
-        Gateway[Gateway]:::infra
+    %% --- 5. UTILISATEURS TÉLÉ TRAVAIL ---
+    subgraph Home["Télétravail (Réseau privé)"]
+        PCHOME[PC Local / Laptop]:::infra
     end
 
     %% --- FLUX DE DONNÉES ---
@@ -55,20 +59,21 @@ flowchart TD
     %% Logique C# & n8n
     Orch -->|"Normalisation & Dispatch"| Files
     Orch -->|" Payload Standardisé"| N8N
-    N8N -->|"Création/MàJ"| Odoo
+    N8N -->|"Création/MàJ"| Docs
     
     %% Boucle de Rétroaction (Event Driven)
     Files -.->|Event: File Created/Mod| Grid
     Grid -.->|Webhook| Orch
 
-    %% Stockage Odoo
-    Odoo -.->|"Stockage Binaire"| Blob
+	%% Stockage Odoo : Le Module Documents écrit dans le Blob
+    Docs -.->|Stockage Binaire| Blob
+    Docs -.->|Métadonnées| Core
 
     %% Accès Utilisateurs (Le Z:)
     RDS -->|"Montage SMB (Interne)"| Files
     PC -->|"Montage SMB"| Gateway
     Gateway --> |"Montage SMB (VPN)"| Files
-
+	PCHOME -->|"Session RDP"| RDS
     %% Note de liaison
     linkStyle 0 stroke-width:3px,fill:none,stroke:black;
 ```
