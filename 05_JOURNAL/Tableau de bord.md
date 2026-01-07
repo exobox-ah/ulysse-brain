@@ -11,7 +11,7 @@ TABLE WITHOUT ID
 	focus as "Focus 🎯",
 	humeur as "Humeur 🙂"
 FROM #journal
-WHERE file.name != this.file.name
+WHERE file.name != this.file.name AND file.folder = "05_JOURNAL/ENTRIES"
 SORT date DESC
 LIMIT 30
 ```
