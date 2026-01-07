@@ -41,7 +41,7 @@ flowchart TD
     end
     
     %% --- 4. UTILISATEURS ---
-    subgraph Local ["Bureaux Marcotte(Réseau interne)"]
+    subgraph Local ["Bureaux Marcotte<br/>(Réseau interne)"]
         PC[PC Local / Laptop]:::infra
         Gateway[Gateway]:::infra
     end
