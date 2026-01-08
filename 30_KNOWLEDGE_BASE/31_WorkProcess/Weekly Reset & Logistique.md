@@ -1,3 +1,25 @@
+
+- **La Récolte (5 min) :**
+    - Tu ouvres tes onglets.
+    - Screenshot Agenda Famille (Google Calendar).
+    - Screenshot Agenda Pro (Outlook/Google).
+    - Screenshot Trello/Jira/Notion (Ton Kanban).
+    - Screenshot Menu (Notion/Frigo).
+- **L'Injection (2 min) :**
+    - Tu ouvres notre chat.
+    - Tu drag & drop les 4 images.
+    - Tu colles le Mega-Prompt ci-dessus.
+    - Tu lances et tu vas te chercher un café pendant que je "compile".
+- **La Décision (15 min) :**
+    - Tu lis mon rapport.
+    - **Section 1 :** Tu textes Karine immédiatement pour les points de synchro ("Chérie, mardi soir, tu peux gérer le lift ?").
+    - **Section 2 :** Tu bloques tes plages de Deep Work dans ton agenda pro _tout de suite_.
+    - **Section 3 :** Tu déplaces les 3 cartes Kanban dans la colonne "THIS WEEK".
+- **La Fermeture (8 min) :**
+    - Tu envoies les courriels/messages de relance (Section 4) ou tu les programmes pour lundi 8h00.
+    - Tu fermes tous les onglets. C'est fini.
+
+
 # 🔄 Weekly Reset & Logistique
 
 ### 1. 🏠 Logistique Maison (L'Ancrage)
