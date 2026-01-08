@@ -30,7 +30,6 @@ kanban-plugin: board
 ## ACTIVE (CODE WIP:1, ADMIN WIP:1)
 
 - [ ] [[MarcotteX - Preuve de concept pour la gestion documentaire]] #code #medium @{2026-01-16}
-- [ ] Remettre la pixel watch en service #admin #urgent
 
 
 ## DONE
@@ -38,6 +37,7 @@ kanban-plugin: board
 - [ ] Configuration de Berrycast pour communication asynchrone #admin #x-small
 - [ ] Envoyer facture à Lucien #admin #x-small
 - [ ] Payer les frais de REQ pour dissolution Divergent #admin #urgent  #x-small
+- [ ] Remettre la pixel watch en service #admin #urgent
 - [ ] Configurer un Gem assistant personnel avec mon contexte global #admin #x-small
 - [ ] DAS Exobox #admin #urgent #x-small
 
