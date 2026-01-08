@@ -1,15 +1,21 @@
 ---
-date: {{date}}
-omega3: false
-zinc_cuivre: false
-magnesium: false
-lever: 
+date: "{{date}}"
+
+réveil:
 coucher:
-sommeil_global:
-endormissement:
-focus:
-impulsivite:
-humeur:
-energie:
+
+___
+💻Productivité
+gamingtime: 0
+deepworktime: 0
+shallowworktime: 0
+___
+🩺 Indicateurs santé
+sleeptime: 0
+weight: 290
+emom: false
+morningwalk: false
+lunchwalk: false
 ---
+
 #journal
