@@ -17,7 +17,6 @@ kanban-plugin: board
 
 ## NEXT
 
-- [ ] Finaliser le transfert de mon ancien laptop #admin #x-small
 - [ ] Faire le ménage de mon espace de travail #admin #x-small
 - [ ] MarcotteX - Présentation pour la gestion documentaire à Karine #marcotteX #admin #small @{2026-01-09}
 - [ ] MarcotteIT - Générer les dossiers 2026 de la voûte
@@ -30,6 +29,7 @@ kanban-plugin: board
 ## ACTIVE (CODE WIP:1, ADMIN WIP:1)
 
 - [ ] [[MarcotteX - Preuve de concept pour la gestion documentaire]] #code #medium @{2026-01-16}
+- [ ] Finaliser le transfert de mon ancien laptop #admin #x-small
 
 
 ## DONE
