@@ -23,13 +23,14 @@ kanban-plugin: board
 	
 	#code #admin #small
 - [ ] GEF2026 - Faire le suivi avec Karine pour les nouveaux prix GEF 2026 #admin #x-small #gef @{2026-01-09}
+- [ ] [[MarcotteX - Preuve de concept pour la gestion documentaire]] #code #medium @{2026-01-16}
 - [ ] GEF2026 - Faire le suivi avec Marie-Pier pour les changements aux états financiers 2026 #admin #x-small #gef @{2026-01-09}
 
 
 ## ACTIVE (CODE WIP:1, ADMIN WIP:1)
 
-- [ ] [[MarcotteX - Preuve de concept pour la gestion documentaire]] #code #medium @{2026-01-16}
 - [ ] Finaliser le transfert de mon ancien laptop #admin #x-small
+- [ ] [[MarcotteX - Outil pour simulation prix abonnement]] #code #marcotteX #medium
 
 
 ## DONE
