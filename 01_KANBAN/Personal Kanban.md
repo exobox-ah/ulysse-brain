@@ -12,7 +12,7 @@ kanban-plugin: board
 	#code #medium #gef @{2026-01-31}
 - [ ] [[GEF2026 - Implémenter les changements aux états financiers]] #code #medium
 - [ ] [[GEF2026 - Correction de bugs]] #code #small #gef @{2026-01-31}
-- [ ] 
+- [ ] Fix dracula theme dans Powershell #admin #x-small
 
 
 ## NEXT
