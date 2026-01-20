@@ -17,24 +17,25 @@ kanban-plugin: board
 
 ## NEXT
 
-- [ ] [[MarcotteX - Preuve de concept pour la gestion documentaire]] #code #medium @{2026-01-16}
 - [ ] MarcotteX - Présentation pour la gestion documentaire à Karine #marcotteX #admin #small @{2026-01-09}
 - [ ] MarcotteIT - Générer les dossiers 2026 de la voûte
 	
 	#code #admin #small
 - [ ] GEF2026 - Faire le suivi avec Karine pour les nouveaux prix GEF 2026 #admin #x-small #gef @{2026-01-09}
 - [ ] GEF2026 - Faire le suivi avec Marie-Pier pour les changements aux états financiers 2026 #admin #x-small #gef @{2026-01-09}
+- [ ] Payer facture Sogetel #admin #x-small @{2026-02-01}
 
 
 ## ACTIVE (CODE WIP:1, ADMIN WIP:1)
 
-- [ ] [[MarcotteX - Outil pour simulation prix abonnement]] #code #marcotteX #medium
-- [ ] Faire le ménage de mon espace de travail #admin #x-small
+- [ ] [[MarcotteX - Preuve de concept pour la gestion documentaire]] #code #medium @{2026-01-16}
 
 
 ## DONE
 
 - [ ] Configuration de Berrycast pour communication asynchrone #admin #x-small
+- [ ] Faire le ménage de mon espace de travail #admin #x-small
+- [ ] [[MarcotteX - Outil pour simulation prix abonnement Phase 1]] #code #marcotteX #medium
 - [ ] Envoyer facture à Lucien #admin #x-small
 - [ ] Payer les frais de REQ pour dissolution Divergent #admin #urgent  #x-small
 - [ ] Remettre la pixel watch en service #admin #urgent
