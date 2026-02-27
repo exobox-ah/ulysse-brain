@@ -1,0 +1,5 @@
+Honnêtement, on a pas d'idée claire en tête encore, mais en regardant l'écosystème canadien du traitement de la paie, il semble clair que les joueurs avec des solutions plus modernes qui se démarquent sont Payworks et Wagepoint. Toutefois, quand on regarde les spécificités de la paie au Québec, Payworks se démarque largement. 
+
+Au départ on pensait à une solution sur mesure en intégrant différents blocs et des formulaires personnalisés, mais au final je pense qu'une approche de style "service de paie en co-gestion Payworks/Marcotte" serait plus appropriée (à discuter). On pourrait mettre en valeur notre expertise en configurant Payworks pour le client qui utiliserait le mode "Self Service" (c'est ici qu'on bâtit des playbooks) et nos spécialistes de la paie utiliserait le portail cabinet  pour faire l'audit des heures saisies, gérer les exceptions et approuver les heures pour le traitement par Payworks.
+
+On pourrait ensuite regarder pour automatiser la facturation dans Odoo en s'intégrant avec les API Payworks.
