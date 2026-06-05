@@ -14,6 +14,7 @@ kanban-plugin: board
 - [ ] [[GEF2026 - Correction de bugs]] #code #small #gef @{2026-01-31}
 - [ ] Fix dracula theme dans Powershell #admin #x-small
 - [ ] Revoir le terme “Clarté Éditoriale” pour la CS dans pôle coordination
+- [ ] [[Sondage autoévalué]]
 
 
 ## NEXT
