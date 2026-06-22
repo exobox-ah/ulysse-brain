@@ -1,14 +1,12 @@
-# BMC ajusté — Ouilo
 
-  
 
-## Positionnement
+# Positionnement
 
 Ouilo est une plateforme de paiement et de crédit local qui vise deux grands segments: les personnes non ou sous-bancarisées, et les utilisateurs bancarisés qui veulent accéder au crédit sans pénaliser les commerces locaux.[cite:172][cite:173][cite:174] Le modèle combine un réseau de marchands de proximité, un mécanisme de collatéral liquide, un programme de fidélité en points et, à terme, une couche bancaire connectée pour automatiser les transferts des utilisateurs bancarisés.[cite:172][cite:213][cite:222]
 
   
 
-## 1. Segments de clientèle
+# 1. Segments de clientèle
 
 | Segment | Description | Besoin principal |
 |---|---|---|
@@ -19,7 +17,7 @@ Ouilo est une plateforme de paiement et de crédit local qui vise deux grands se
 
   
 
-## 2. Propositions de valeur
+# 2. Propositions de valeur
 
 | Pour | Proposition de valeur | Détail |
 |---|---|---|
@@ -32,16 +30,14 @@ Ouilo est une plateforme de paiement et de crédit local qui vise deux grands se
 | Commerçants | Réseau de guichets humains | Les marchands peuvent servir de points de dépôt, de retrait et de paiement de solde, avec compensation dans leur prochain versement Ouilo.[cite:172] |
 | Commerçants | Produits financiers de croissance | Ouilo peut évoluer vers des avances et de l’affacturage fondés sur les flux observés dans le réseau.[cite:173] |
 
-## 3. Canaux
+# 3. Canaux
 
 - Application mobile citoyenne pour paiement, crédit, points, solde et gestion du collatéral.[cite:172][cite:174]
 - Interface marchand pour encaisser, confirmer les dépôts et retraits, et suivre les compensations Ouilo.[cite:172]
 - Réseau physique des marchands Ouilo comme canal d’acquisition, de visibilité et d’opération.[cite:172]
 - Couche bancaire/API pour les utilisateurs bancarisés, à court terme via Flinks Pay ou solution comparable, avec possibilité d’intégration plus directe plus tard si le volume le justifie.[cite:213][cite:222][cite:238]
 
-## 4. Relations clients
-
-  
+# 4. Relations clients
 
 | Segment | Type de relation | Description |
 |---|---|---|
@@ -50,7 +46,7 @@ Ouilo est une plateforme de paiement et de crédit local qui vise deux grands se
 | Commerçants | Partenariat d’écosystème | Les marchands ne sont pas seulement des accepteurs de paiement; ils deviennent aussi des points de service du réseau Ouilo.[cite:172] |
 | Utilisateurs bancarisés | Expérience hybride | Les utilisateurs peuvent choisir entre un rail marchand physique et un rail bancaire automatisé selon leur préférence et leur situation.[cite:172][cite:213] |
 
-## 5. Sources de revenus
+# 5. Sources de revenus
 
 | Source | Description |
 |---|---|
@@ -62,7 +58,6 @@ Ouilo est une plateforme de paiement et de crédit local qui vise deux grands se
 | Revenus de trésorerie | À terme, rendement passif éventuel sur une partie du pool, sans faire de la blockchain le cœur du produit.[cite:172] |
 
 ## 6. Ressources clés
-
 
 - Moteur applicatif et ledger Ouilo pour gérer paiements, collatéral, soldes, réputation et points.[cite:172]
 - Réseau de marchands partenaires jouant un rôle opérationnel clé dans les flux physiques.[cite:172]
@@ -78,17 +73,18 @@ Ouilo est une plateforme de paiement et de crédit local qui vise deux grands se
 - Intégrer et superviser les rails bancaires pour les usagers bancarisés, initialement via un partenaire comme Flinks.[cite:213][cite:222]
 - Assurer la conformité, le suivi du risque et la prévention de la fraude et du blanchiment.[cite:172][cite:238]
 
-  
-
 ## 8. Partenaires clés
 
 | Partenaire | Rôle |
 |---|---|
-| Marchands Ouilo | Points de service physiques pour dépôts, retraits, paiements de solde et visibilité locale.[cite:172] |
-| Fournisseur de connectivité bancaire comme Flinks | Facilite les paiements A2A, les demandes de paiement Interac et certains flux EFT pour les utilisateurs bancarisés.[cite:213][cite:222][cite:215] |
-| Banque partenaire | Détient les comptes d’entreprise et pourrait éventuellement reprendre davantage de connectivité directe si le volume transactionnel justifie de réduire la dépendance à l’agrégateur.[cite:227][cite:238] |
-| Conseillers juridiques et conformité | Structurent le produit de crédit, le cadre AML/KYC et les obligations réglementaires applicables.[cite:238] |
-| Partenaires locaux de développement économique | Peuvent accélérer l’adoption régionale et la crédibilité du réseau marchand.[cite:173] |
+| Marchands Ouilo | Points de service physiques pour dépôts, retraits, paiements de solde et visibilité locale. |
+| Fournisseur de connectivité bancaire comme Flinks | Facilite les paiements A2A, les demandes de paiement Interac et certains flux EFT pour les utilisateurs bancarisés.[1][2][5] |
+| Banque partenaire | Détient les comptes d’entreprise et peut éventuellement reprendre davantage de connectivité directe si le volume transactionnel justifie de réduire la dépendance à l’agrégateur.[6][4] |
+| AMF | Partenaire réglementaire stratégique via le sandbox pour fintech innovante; permet de structurer et tester le modèle dans un cadre supervisé.[4] |
+| OPC | Encadrement de la conformité liée au crédit au consommateur, aux obligations de divulgation et à la structure légale du produit de crédit.[4] |
+| CANAFE | Encadrement des obligations liées au statut MSB, à la conformité AML/CFT, à la surveillance des transactions et à la prévention du blanchiment.[4] |
+| Conseillers juridiques et conformité | Structurent le produit de crédit, le cadre AML/KYC et les obligations réglementaires applicables.[4] |
+| Partenaires locaux de développement économique | Peuvent accélérer l’adoption régionale et la crédibilité du réseau marchand. |
 
 ## 9. Structure de coûts
 
@@ -107,7 +103,6 @@ Ouilo est une plateforme de paiement et de crédit local qui vise deux grands se
 
 Le modèle est désormais plus fort parce qu’il supporte deux rails complémentaires: un rail physique assisté par les marchands pour les non-bancarisés, et un rail bancaire/API pour les usagers bancarisés.[cite:172][cite:213] Cette dualité élargit le marché adressable sans diluer la mission d’inclusion.[cite:172]
 
-  
 ### Valeur accrue pour les utilisateurs bancarisés
 
 Pour les utilisateurs qui ont déjà une banque, la valeur ne repose pas seulement sur le crédit, mais aussi sur la facilité de régler le solde mensuel, d’ajouter du collatéral et éventuellement d’en retirer, avec moins de friction.[cite:213][cite:222] Cela rend Ouilo plus universel, tout en gardant le parcours cash comme avantage compétitif d’accessibilité.[cite:172]
@@ -115,8 +110,6 @@ Pour les utilisateurs qui ont déjà une banque, la valeur ne repose pas seuleme
 ### Positionnement local et social
 
 Le produit ne sert pas seulement les exclus du système bancaire; il intéresse aussi les consommateurs qui veulent acheter à crédit sans étouffer leurs commerces locaux.[cite:173][cite:205] Cette dimension peut devenir un angle marketing central du BMC, car elle élargit la proposition au-delà de l’inclusion financière stricte.[cite:173]
-
-  
 
 ### Dépendance transitoire à l’agrégateur
 
