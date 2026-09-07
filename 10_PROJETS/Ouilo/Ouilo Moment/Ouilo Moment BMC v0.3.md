@@ -2,7 +2,7 @@
 
 # Positionnement
 
-Ouilo est une plateforme de paiement et de crédit local qui vise deux grands segments: les personnes non ou sous-bancarisées, et les utilisateurs bancarisés qui veulent accéder au crédit sans pénaliser les commerces locaux.[cite:172][cite:173][cite:174] Le modèle combine un réseau de marchands de proximité, un mécanisme de collatéral liquide, un programme de fidélité en points et, à terme, une couche bancaire connectée pour automatiser les transferts des utilisateurs bancarisés.[cite:172][cite:213][cite:222]
+Ouilo Moment est une plateforme de paiement et de crédit local qui vise deux grands segments: les personnes non ou sous-bancarisées, et les utilisateurs bancarisés qui veulent accéder au crédit sans pénaliser les commerces locaux.[cite:172][cite:173][cite:174] Le modèle combine un réseau de marchands de proximité, un mécanisme de collatéral liquide, un programme de fidélité en points et, à terme, une couche bancaire connectée pour automatiser les transferts des utilisateurs bancarisés.[cite:172][cite:213][cite:222]
 
   
 
