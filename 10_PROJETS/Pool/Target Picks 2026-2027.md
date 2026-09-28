@@ -66,6 +66,8 @@ Positions 19-21 : deux défenseurs élites dos à dos (Werenski, Q. Hughes, Fox,
 
 ### Ronde 2 (choix 22 à 42)
 
+**Lane Hutson ne sera pas là** : avec la taxe CH et les 90 points de Brunet, il part vers le 20e choix. Il est hors liste parce que les sources ne s'entendent pas (kit et ESPN 70, NHL 80, HLM 89 ; consensus 74, 78 pts l'an dernier). À 74, il vaut moins que Werenski (81) : ne paie pas la taxe en ronde 1.
+
 | # | Joueur | Pos | Éq. | Rang kit | Kit / NHL / HLM / ESPN / Dob | 2025-26 | Consensus | Type | Note |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Wyatt Johnston | F | DAL | 25 | 84 / 96 / 99 / 85 / — | 86 (82) | 88 | ☆ |  |
@@ -152,7 +154,7 @@ Positions 19-21 : deux défenseurs élites dos à dos (Werenski, Q. Hughes, Fox,
 | 2 | Logan Cooley | F | UTA | 130 | 53 / 80 / 70 / 67 / — | 43 (54) | 64 | ◆ | Trois sources : NHL 80, HLM 70, ESPN 67 |
 | 3 | Roope Hintz | F | DAL | 117 | 55 / 78 / 70 / 65 / — | 44 (53) | 63 | ◆ | NHL 78, HLM 70 ; risque santé (53 matchs) ; jusqu'à R7 |
 | 4 | Jackson LaCombe | D | ANA | 135 | 53 / 65 / 66 / 52 / — | 58 (82) | 57 | ◆ | Le plus sûr : 58 points en 82 matchs ; NHL 65, HLM 66 |
-| 5 | Shayne Gostisbehere | D | CAR | 140 | 52 / 52 / 59 / 57 / — | 50 (55) | 56 | ◆ | Rythme de 75 ; spécialiste de l'AN |
+| 5 | Shayne Gostisbehere | D | CAR | 140 | 52 / 52 / 59 / 57 / — | 50 (55) | 56 | ◆ | Rythme de 75 ; spécialiste de l'AN, et Carlson et Nikishin sont partis ; perd son partenaire à 5 contre 5 (Legault ou Reilly) |
 | 6 | Adam Fantilli | F | CBJ | 107 | 57 / 68 / 65 / 60 / 79 | 59 (82) | 62 | ◆ | Dobber 79, NHL 68, HLM 65 ; Dobber l'a eu au 149e choix |
 | 7 | **Jared McCann** | F | SEA | 110 | 56 / 62 / 64 / 60 / — | 40 (52) | 58 | ★ |  |
 | 8 | **Ryan Nugent-Hopkins** | F | EDM | 106 | 57 / 65 / 63 / 56 / — | 56 (72) | 58 | ★ |  |
@@ -259,7 +261,7 @@ Défenseur 2 ou attaquant à potentiel visible. Positions 20-21 : un défenseur 
 | 1 | Thomas Chabot | D | OTT | 235 | 36 / 44 / 42 / 45 / — | 31 (57) | 39 | ☆ |  |
 | 2 | **Travis Sanheim** | D | PHI | 232 | 37 / 44 / — / — / — | 37 (81) | 38 | ★ |  |
 | 3 | **Mattias Samuelsson (bl.)** | D | BUF | 239 | 36 / 43 / — / — / — | 41 (78) | 38 | ★ | **Retour au plus tôt le 3 oct. (1 match manqué)** |
-| 4 | **K'Andre Miller** | D | CAR | 240 | 36 / 39 / — / — / — | 37 (72) | 36 | ★ |  |
+| 4 | **K'Andre Miller** | D | CAR | 240 | 36 / 39 / — / — / — | 37 (72) | 36 | ★ | Nikishin absent : 2e paire avec Walker inchangée ; léger bonus possible s'il hérite de l'AN2 |
 | 5 | Collin Graf | F | SJS | 225 | 37 / 54 / 50 / 38 / — | 46 (81) | 42 | ◆ | 46 points en 81 matchs ; HLM 50, NHL 54 |
 | 6 | Will Cuylle | F | NYR | 224 | 38 / 50 / 50 / 38 / — | 38 (82) | 41 | ☆ |  |
 | 7 | **Noah Cates** | F | PHI | 217 | 38 / 48 / 43 / 43 / — | 47 (82) | 40 | ★ |  |
@@ -331,7 +333,7 @@ Défenseur 2 ou attaquant à potentiel visible. Positions 20-21 : un défenseur 
 | 1 | **Jamie Drysdale** | D | PHI | 313 | 29 / 38 / — / — / 36 | 32 (78) | 30 | ★ |  |
 | 2 | Matt Savoie (bl.) | F | EDM | 278 | 32 / 49 / 45 / 39 / — | 37 (82) | 36 (38 en santé) | ◆ | **Retour au plus tôt le 20 oct. (8 matchs manqués) : R13 → R14** ; Diamant du plan confirmé ; jusqu'à R15 |
 | 3 | Esa Lindell | D | DAL | 303 | 30 / 31 / — / — / — | 32 (82) | 29 | ☆ |  |
-| 4 | **Sean Walker** | D | CAR | 300 | 30 / 32 / — / — / — | 31 (81) | 29 | ★ |  |
+| 4 | **Sean Walker** | D | CAR | 300 | 30 / 32 / — / — / — | 31 (81) | 29 | ★ | Nikishin absent : 2e paire avec Miller inchangée, aucun effet attendu |
 | 5 | Vasily Podkolzin | F | EDM | 289 | 31 / 44 / — / — / — | 37 (82) | 35 | ☆ |  |
 | 6 | **Damon Severson** | D | CBJ | 310 | 29 / 32 / — / — / — | 32 (71) | 29 | ★ | **Day-to-day : présent au match d'ouverture** |
 | 7 | **Sam Steel** | F | DAL | 284 | 31 / 40 / — / — / — | 33 (73) | 33 | ★ |  |
