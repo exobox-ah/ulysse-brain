@@ -16,6 +16,7 @@ Préparé à partir du kit PoolExpert (`data/draftkit-fr-*.xlsx`), des Listes de
   - **Stenberg** est projeté à 65 points par Dobber : il passe de pari à diamant confirmé.
   - **Cagnoni** est confirmé dans l'alignement des Sharks.
   - **T.J. Hughes** (COL, AN1) est absent du kit : vérifie qu'on peut le sélectionner sur PoolExpert.
+- **Deux équipes dans le même pool :** mets Wallstedt dans l'une et Ullmark dans l'autre, puis ajoute Skinner et Allen (ou Blackwood) comme 2es gardiens. Répartis aussi les sleepers : Ottawa d'un côté, Cagnoni et Nemec un de chaque côté. Les détails sont à la fin de la section gardiens.
 - **Projections Dobber (33 joueurs) : les plus gros écarts avec le kit.**
   - **Fantilli** : 79 points (kit 57, ronde 6). Le meilleur attaquant à viser aux rondes 5-6.
   - **McKenna** : 70 (kit 42, ronde 10). Avec HLM à 64, deux sources le voient maintenant bien plus haut.
@@ -293,12 +294,14 @@ Recommandations :
 |---|---|---|---|---|---|---|---|
 | Linus Ullmark | OTT | G29 | 21 | 29 | 9 | 59 | **Sleeper** (voir Ottawa) |
 | Igor Shesterkin | NYR | G21 | 24 | 28 | 11 | 60 | **Sleeper** ; HLM à 32 |
-| Jesper Wallstedt | MIN | G34 | 18 | 26 (HLM 38) | 19 | 54 | **Sleeper** : Gustavsson est marqué blessé au kit |
+| Jesper Wallstedt | MIN | G34 | 18 | 26 (22/38/18) | 19 | 54 ; **environ 72 à 80 en 1A** (84 matchs) | **Sleeper confirmé** : Gustavsson est opéré à la hanche (retour vers novembre) |
+| Filip Gustavsson (bl.) | MIN | G27 | 22 (35 PJ) | absent du top 40 | — | 53 | **À éviter** : blessé, et le kit lui donne encore les victoires d'un partant |
 | Connor Hellebuyck (bl.) | WPG | G9 | 27 | 25 | 21 | 76 | Grève et blessure : risque élevé |
 | Stuart Skinner | WPG (signé le 1er juillet) | G49 | 13 (25 PJ) | 25 (projeté comme partant à PIT) | 22 | 34 (réserviste) ; environ 60 comme partant | **Sleeper :** partant à Winnipeg pendant la grève de Hellebuyck |
 | Sergei Murashov | PIT | G17 | 25 | absent | — | 64 | Le kit en fait le partant à Pittsburgh, devant Silovs |
 | Arturs Silovs | PIT | G40 | 16 | 19 | 35 | 46 | **Retirer de ta liste** : réserviste selon le kit |
-| Jake Allen | NJD | G18 | 25 | 23 | 27 | 61 | Ton plan (28) est optimiste |
+| Jake Allen | NJD | G18 | 25 | 23 | 27 | 61 ; **environ 66 à 68** sans Rittich | Rittich rétrogradé le 28 septembre : environ 53 matchs et 27-28 victoires. Ton plan (28) devient réaliste |
+| Nico Daws | NJD | G75 | 4 (16 PJ) | absent | — | 12 ; environ 20 à 25 comme réserviste | Réserviste d'Allen : utile seulement si Allen se blesse |
 | Yaroslav Askarov | SJS | G22 | 24 | 22 | 29 | 53 | Ton plan (25) est optimiste ; ESPN à 17 |
 
 **Skinner, le vrai sleeper des gardiens :** il a signé à Winnipeg le 1er juillet. Le kit le traite en réserviste (25 matchs, 13 victoires), alors qu'il sera le partant tant que Hellebuyck est en grève.
@@ -306,6 +309,169 @@ Recommandations :
 - Comme personne ne le prendra avant la fin, choisis-le comme **gardien substitut entre les rondes 12 et 14**. Il peut même servir de gardien partant si la grève se prolonge.
 - **Évite Hellebuyck** à son prix (9e gardien au kit).
 - **Évite aussi l'équipe des Jets** : le kit compte 27 victoires de Hellebuyck dans leur projection.
+
+**Wallstedt, le deuxième sleeper des gardiens :**
+- **La blessure est confirmée.** Gustavsson a été opéré à la hanche au début de l'été et ne sera pas prêt pour le camp. Selon The Athletic, son retour est prévu vers début novembre (rapporté par [RotoWire, 18 septembre](https://www.rotowire.com/hockey/headlines/filip-gustavsson-injury-expected-back-in-november-593284)). Bill Guerin précise que la hanche le gênait depuis bien avant les Jeux olympiques ([The Hockey News](https://thehockeynews.com/nhl/minnesota-wild/latest-news/filip-gustavsson-still-undergoing-physical-therapy-expected-to-miss-start-of-wilds-2026-27-nhl-season)).
+- **Le kit est incohérent.**
+  - Il réduit Gustavsson à 35 matchs, mais lui garde un taux de victoires de partant (22 en 35, soit 63 %).
+  - Il donne à Wallstedt 18 victoires en 36 matchs (50 %), alors que Wallstedt a un meilleur taux d'arrêts (.915 contre .903 en 2025-26) et qu'il avait déjà pris des départs à Gustavsson en fin de saison.
+  - Les deux jouent derrière la même équipe, projetée à 46 victoires.
+- **Les sources divergent énormément** : Fantrax 22, HLM 38, ESPN 18. Gustavsson n'apparaît même pas dans le top 40 de la Liste des listes Gardiens, donc au moins une partie des sources a tenu compte de la blessure.
+- **Estimation** (46 victoires pour Minnesota ; Pickard, à .871 l'an dernier, comme simple réserviste en octobre) :
+  - Environ 10 départs en octobre, puis un partage 50/50 : **environ 43 matchs, 23 victoires, 65 pts pool**. Environ 14e gardien.
+  - Environ 10 départs en octobre, puis 60 % des départs comme 1A : **environ 50 matchs, 27 victoires, 72 à 78 pts pool**. Entre le 5e et le 9e gardien, au niveau de Thompson, Swayman ou Hart.
+  - Dans les deux cas, il dépasse le niveau de remplacement (59 pts pool), et le kit le classe 34e.
+- **Où le prendre :**
+  - Les poolers qui suivent le kit ne le verront pas.
+  - Ceux qui suivent la Liste des listes le voient 19e.
+  - Vise-le **quand les gardiens 15 à 20 de la Liste des listes commencent à partir**, et avant Skinner. Ensemble, ils feraient ton meilleur duo de gardiens à bas prix.
+  - L'équipe du Wild (8e au kit, 7e dans ton plan) est payée au juste prix : ce n'est pas un sleeper.
+
+**Colten Ellis (BUF) : utile quelques jours seulement.**
+- Lyon (haut du corps, 24 septembre, « quelques jours ») et Luukkonen (bas du corps, 26 septembre, un « étirement ») sont blessés, sans échéancier ([Buffalo Hockey Beat](https://www.buffalohockeybeat.com/ukko-pekka-luukkonen-leaves-game-injured-as-sabres-end-preseason/)). Ellis devrait donc amorcer la saison le 1er octobre à Columbus.
+- L'an dernier, il a gagné 8 matchs avec un taux d'arrêts de .903 en 16 matchs. Buffalo est une équipe forte (106 pts au kit), donc environ 1,5 pt pool par départ.
+- Mais les deux blessures semblent mineures. Ellis ne devrait obtenir que 3 à 5 départs de plus que son rôle de 3e gardien : **environ 25 à 30 pts pool sur la saison**, loin derrière Skinner ou Allen.
+- Un podcast local lie aussi les Sabres à Hellebuyck. Si Buffalo le prend, Ellis perd toute valeur, mais Skinner reste le partant à Winnipeg pour toute la saison.
+- **Verdict :** à prendre en toute dernière ronde seulement, et seulement si une équipe a une place de banc libre. Si Luukkonen, qui a déjà beaucoup de blessures à son dossier, est absent longtemps, Ellis devient ton gardien de rechange au ballottage. Vérifie aussi à partir de quelle date les points comptent : l'an dernier, l'alignement devait être déposé le 8 octobre. Si c'est encore le cas, la courte fenêtre d'Ellis pourrait être passée avant que ton alignement compte.
+
+**Deuxième gardien et changements : deux régimes possibles.**
+
+Selon le point 2.3, les changements prennent effet le lundi et comptent du lundi au dimanche, à raison de 2 par semaine. En pratique, l'an dernier, PoolExpert a permis des changements en libre-service **n'importe quel jour**, pris en compte le lendemain s'ils étaient faits avant la réinitialisation quotidienne (vers 3 h, à confirmer). La limite restait de 2 par semaine. Ça change la valeur d'un 2e gardien.
+
+- **Si le règlement est appliqué à la lettre (changements le lundi seulement) :** le gardien actif l'est pour toute la semaine. Un réserviste de la même équipe (Daws derrière Allen) ne sert qu'en cas de blessure. Un 2e partant d'une autre équipe permet au moins de choisir chaque lundi le gardien qui a le plus de départs probables.
+- **Si le libre-service quotidien est encore toléré :** un aller-retour se fait en 2 changements. Tu actives le 2e gardien pour une fenêtre de jours où ton partant ne joue pas, puis tu reviens au partant. Ça utilise toute la limite de la semaine.
+  - **Réserviste de la même équipe (Allen, puis Daws au 2e match d'un aller-retour) :**
+    - Le réserviste joue presque toujours le 2e match d'un aller-retour, c'est prévisible.
+    - Mais ça ne se produit que 12 à 15 fois par saison.
+    - Daws est faible : environ 1 pt pool par départ.
+    - **Gain : environ 12 à 15 pts pool par saison.** Sa valeur autonome est nulle.
+  - **Deux partants de deux équipes différentes (Wallstedt et Allen, ou Wallstedt et Skinner) :**
+    - Presque chaque semaine, il y a une ou deux soirées où l'équipe de ton gardien actif ne joue pas et où l'autre équipe joue, y compris les soirs où ton partant se repose au 2e match d'un aller-retour.
+    - Le 2e partant rapporte environ 1,3 à 1,4 pt pool par départ, mais il faut qu'il soit le partant ce soir-là (environ 65 % des cas).
+    - Si tu en profites une semaine sur deux ou trois, **le gain est d'environ 20 à 30 pts pool par saison**.
+    - En plus, tu as un vrai gardien de remplacement en cas de blessure.
+  - **Attention :** les attaquants blessés ou en panne utilisent aussi ces 2 changements. Le jeu des gardiens se fait seulement les semaines où tu n'en as pas besoin ailleurs.
+- **Conclusion : mieux vaut un 2e partant d'une autre équipe** que le réserviste de ton propre gardien, peu importe le régime. Daws ne vaut une place sur le banc qu'à la toute fin, si ton banc n'a rien de mieux.
+
+**Simulation des duos avec le vrai calendrier 2026-27** (84 matchs, calendrier de la LNH ; script `scripts/gardiens.js`)
+
+La simulation cherche la meilleure séquence de changements pour toute la saison, en points pool attendus. Chaque changement prend effet le lendemain.
+
+Elle couvre 31 gardiens et 489 duos. Les gardiens élites (Vasilevskiy, Oettinger, Sorokin, Bussi, Vejmelka, Thompson, Swayman, Saros, Hellebuyck) sont exclus, parce qu'ils partent trop tôt. Le classement complet est dans `scripts/sortie-gardiens.md`.
+
+Hypothèses :
+- **Pts pool par départ :** ceux du kit.
+- **Part des départs :** celle du kit, ajustée à mi-chemin vers les victoires de la Liste des listes Gardiens, avec un maximum de 75 %.
+- **Au 2e match d'un aller-retour**, le partant joue 20 % du temps.
+- **Ajustements selon les nouvelles :**
+  - Wallstedt : 85 % des départs jusqu'au 5 novembre, puis 58 %.
+  - Gustavsson : absent jusqu'en novembre.
+  - Allen 63 % et Daws 37 %, avec Rittich rétrogradé.
+  - Skinner 65 %, partant pendant la grève de Hellebuyck.
+  - Kuemper 50 %, en alternance possible avec Forsberg.
+  - Jarry : il partage les départs avec Levi, puis Andersen revient fin octobre.
+  - Dostal : pts par départ = moyenne du kit et de Dobber.
+
+Colonnes :
+- **Soirs décalés** : nombre de soirs où une seule des deux équipes joue.
+- **Lundi seulement** : le règlement à la lettre.
+- **Quotidien réaliste** : 2 changements aux 2 semaines, en laissant l'autre moitié aux attaquants.
+- **Quotidien max** : 2 changements chaque semaine, tous pour les gardiens.
+
+Gardiens seuls, en pts pool sur 84 matchs :
+- **Wallstedt : 80**
+- **Hart : 76**
+- **Ullmark et Wedgewood : 72**
+- **Bobrovsky : 71**
+- **Dostal : 69**
+- **Gibson et Skinner : 68**
+- **Allen et Shesterkin : 67**
+- Murashov et Markstrom : 66
+- Vladar, Luukkonen et Hofer : 63 à 64
+- Greaves : 59
+- **Kuemper : 53**
+- **Askarov : 52**
+- **Jarry : 34**
+- Daws : 30
+
+**Duos avec Wallstedt (le meilleur rapport qualité-prix)**
+
+| Duo | Rangs kit | Rangs LdL | Soirs décalés | Meilleur seul | Lundi seulement | Quotidien réaliste | Quotidien max |
+|---|---|---|---|---|---|---|---|
+| Wallstedt + Hart | G34 / G16 | 19 / 18 | 68 | 80 | 87 | **98** | 101 |
+| Wallstedt + Wedgewood | G34 / G10 | 19 / 16 | 76 | 80 | 87 | 97 | 105 |
+| Wallstedt + Ullmark | G34 / G29 | 19 / 9 | 66 | 80 | 85 | 96 | 103 |
+| Wallstedt + Bobrovsky | G34 / G19 | 19 / 14 | 74 | 80 | 84 | 96 | 104 |
+| Wallstedt + Dostal | G34 / G13 | 19 / 10 | 76 | 80 | 84 | 95 | 101 |
+| Wallstedt + Shesterkin | G34 / G21 | 19 / 11 | 80 | 80 | 83 | 94 | 101 |
+| Wallstedt + Skinner | G34 / G49 | 19 / 22 | 70 | 80 | 83 | 94 | 98 |
+| Wallstedt + Allen | G34 / G18 | 19 / 27 | 56 | 80 | 83 | 93 | 97 |
+| Wallstedt + Greaves | G34 / G25 | 19 / 25 | 66 | 80 | 82 | 92 | 97 |
+
+**Duos sans Wallstedt (pour le 2e pool, ou si Wallstedt part avant ton tour)**
+
+| Duo | Rangs kit | Rangs LdL | Soirs décalés | Meilleur seul | Lundi seulement | Quotidien réaliste | Quotidien max |
+|---|---|---|---|---|---|---|---|
+| Ullmark + Shesterkin | G29 / G21 | 9 / 11 | 86 | 72 | 79 | **90** | 99 |
+| Wedgewood + Bobrovsky | G10 / G19 | 16 / 14 | 84 | 72 | 78 | 89 | 99 |
+| Ullmark + Allen | G29 / G18 | 9 / 27 | 74 | 72 | 79 | 87 | 95 |
+| Dostal + Markstrom | G13 / G11 | 10 / 23 | 84 | 69 | 74 | 85 | 93 |
+| **Skinner + Blackwood** | G49 / G23 | 22 / 20 | 88 | 68 | 74 | 84 | 92 |
+| Gibson + Dobes | G14 / G15 | 17 / 13 | 68 | 68 | 73 | 83 | 90 |
+| Allen + Murashov | G18 / G17 | 27 / — | 68 | 67 | 72 | 83 | 89 |
+| Shesterkin + Kuemper | G21 / G26 | 11 / — | 86 | 67 | 69 | 81 | 87 |
+| Dostal + Jarry | G13 / G50 | 10 / 34 | 86 | 69 | 69 | 77 | 80 |
+| Hofer + Askarov | G24 / G22 | 24 / 29 | 68 | 63 | 65 | 75 | 77 |
+| Allen + Daws | G18 / G75 | 27 / — | 0 | 67 | 67 | 72 | 74 |
+
+Ce qu'on en retient :
+- **Wallstedt est la pièce maîtresse** : environ 80 pts pool seul sur 84 matchs, et 92 à 98 avec n'importe quel 2e partant.
+- **Ce que vaut un 2e gardien :**
+  - Il rapporte surtout grâce aux soirs décalés et à sa valeur autonome.
+  - Deux gardiens de valeur semblable (Ullmark + Shesterkin, Ullmark + Allen) rapportent le plus, parce que le meilleur choix de la semaine change souvent.
+  - Un gardien de l'Est avec un gardien de l'Ouest donne en général plus de soirs décalés (84 à 88).
+- **Couvrir le risque Daws :**
+  - Si Daws prend le poste en janvier, Allen seul chute à environ 55.
+  - Posséder Daws n'en récupère que 6 à 8.
+  - Un 2e partant d'une autre équipe en récupère environ 25.
+- **Ajouter Daws comme 3e gardien** ne rapporte que 1 à 3 pts, pour une 2e place de banc bloquée. Ça ne vaut le coup qu'en dernière ronde.
+- **Duos à éviter :**
+  - **Jarry** : il partage avec Levi en octobre, puis il est menacé d'être envoyé dans la Ligue américaine quand Andersen revient.
+  - **Askarov** : San José est faible, et le kit ne lui donne aucun blanchissage.
+  - **Kuemper** : il a 36 ans et a perdu son poste au profit de Forsberg en fin de saison. Vérifie qui sera partant le soir du repêchage.
+- **Attention aux noms connus :** Shesterkin, Bobrovsky et Markstrom partent souvent plus tôt que leur projection, simplement à cause de leur réputation.
+
+### Deux équipes dans le même pool (la tienne et celle de ta blonde) : répartir 4 gardiens
+
+Les deux équipes ne peuvent pas avoir les mêmes gardiens. La simulation compare toutes les façons de former deux duos sans gardien en commun, parmi les gardiens abordables. Le prix approximatif est la moyenne du rang au kit et du rang dans la Liste des listes : plus il est élevé, moins le gardien coûte cher.
+
+| Ensemble | Équipe 1 | Équipe 2 | Total des deux duos |
+|---|---|---|---|
+| Idéal (Hart coûte un peu plus cher) | Wallstedt + Murashov ou Markstrom (94-95) | Hart + Ullmark (92) | 186-187 |
+| **Recommandé** | **Wallstedt + Allen, Murashov ou Markstrom (93-95)** | **Ullmark + Skinner (88)** | **181-183** |
+| Autre option | Wallstedt + Skinner (94) | Ullmark + Allen (87) | 181 |
+| Tout à bas prix (sans Ullmark ni Hart) | Wallstedt + Blackwood (94) | Skinner + Allen (83) | 177 |
+
+- **L'essentiel : Wallstedt et Ullmark doivent être dans deux équipes différentes.**
+  - Le choix du 2e gardien de chaque équipe ne fait varier le total que de 2 à 5 pts.
+  - Prends donc ces deux-là en priorité, puis complète avec le gardien le moins cher parmi Allen, Skinner, Murashov, Markstrom et Blackwood.
+- **Ordre de priorité :**
+  - Wallstedt d'abord, avec l'équipe qui arrive la première au moment de prendre un gardien.
+  - Ullmark ensuite, avec l'autre équipe, à son prochain choix. Il est 9e dans la Liste des listes, donc les poolers qui la suivent risquent de le prendre avant les lecteurs du kit.
+  - **Skinner** (G49 au kit) peut attendre les rondes 12 à 14 pour l'une ou l'autre équipe.
+  - **Allen** ou **Blackwood** comme 4e gardien.
+- **Murashov :** le kit en fait le partant à Pittsburgh, mais il est absent de la Liste des listes Gardiens, qui place Silovs à Pittsburgh. Vérifie qui sera partant avant de le prendre. Allen est plus sûr.
+- **Deux positions dans l'ordre du repêchage :**
+  - En serpentin, l'équipe qui choisit tôt dans une ronde choisit tard dans la suivante.
+  - Aux rondes où tes deux choix sont rapprochés, prends les deux cibles d'un même type l'une après l'autre (deux gardiens, deux sleepers).
+  - Aux rondes où ils sont éloignés, fais prendre la cible la plus rare à l'équipe qui choisit en premier.
+- **Les autres sleepers se partagent aussi :**
+  - **Équipes :** Ottawa pour l'une, Vegas, Montréal ou St. Louis pour l'autre.
+  - **Défenseurs de la ronde 7 :** Byram pour l'une, Cole Hutson pour l'autre.
+  - **Défenseurs tardifs :** Cagnoni pour l'une, Nemec pour l'autre.
+  - **Attaquants tardifs :** Stenberg et Kantserov, un de chaque côté.
+  - Chaque équipe peut viser son propre boni de duo de défenseurs, mais il n'y a pas assez de défenseurs élites en rondes 1 et 2 pour les deux si vos positions sont proches.
+- **Allen gagne de la valeur** avec la rétrogradation de Rittich : Daws (3 matchs dans la LNH l'an dernier) est un réserviste plus faible, donc Allen devrait jouer environ 53 matchs. À 27-28 victoires, il vaut environ 66 à 68 pts pool, au niveau d'un gardien classé 12e ou 13e.
 
 Ta liste de gardiens pour les rondes 7-11 : Saros (70 pts pool) est le seul nettement au-dessus du niveau de remplacement (59). Vladar, Allen, Hofer, Blackwood et Luukkonen tournent autour de 58 à 61 pts. Ajoute Ullmark, Shesterkin et Hart, qui valent autant ou mieux, souvent moins cher. Retire Silovs. Kuemper (G26, 63 pts pool, absent de la Liste des listes) est un bon substitut tardif.
 
@@ -420,11 +586,11 @@ Avec la surenchère, ces défenseurs partent normalement dès les rondes 3 à 5.
 | Rang | Joueur | Éq. | Âge | Rang kit | Kit | LdL F/HLM/ESPN | Proj. retenue | 2025-26 (rythme 82) | Plan (AN) | Commentaire |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Bowen Byram | CHI | 25 | 204 | 41 | 41/55/51 | 45 | 42 (42) | 50 (Oui) | **Priorité** : seul défenseur de ta liste confirmé par HLM et ESPN. Part au choix 127 selon le scénario fort |
-| 2 | **Luke Hughes** | NJD | 23 | 209 | 40 | 40/51/38 ; Dobber 47 | 45 | 35 en 68 PJ (42) | 45 (Oui) | **Monte au 2e rang** : AN1 à la place de Hamilton, confirmé par HLM (51) et Dobber (47) |
-| 3 | Rasmus Andersson | VGK | 29 | 171 | 46 | 46/49/45 | 46 | 47 en 81 PJ (48) | 48 (Non) | Plancher le plus sûr ; bon avec l'équipe Vegas |
-| 4 | Shea Theodore | VGK | 31 | 174 | 45 | 45/61/45 | 48 | 39 en 70 PJ (46) | — | Plafond venant de HLM seulement |
-| 5 | Thomas Harley | DAL | 25 | 197 | 41 | 41/48/42 | 42 | 36 en 70 PJ (42) | 49 (PP2) | Plafond crédible |
-| 6 | Cole Hutson | WSH | 20 | 206 | 40 | 40/50/— | 42 | 10 en 14 PJ (59) | — | Petit échantillon, gros potentiel |
+| 2 | **Cole Hutson** | WSH | 20 | 206 (D32) | 40 **en 63 PJ** | 40/50/— | 45 | 10 en 14 PJ (59) | — | **Plancher d'environ 52 sur 82 matchs** (0,63 pt par match au kit). Carlson est parti à Tampa, ce qui libère l'AN1 avec Chychrun. Plafond de 60 et plus : le plus haut de la ronde 7 |
+| 3 | **Luke Hughes** | NJD | 23 | 209 | 40 | 40/51/38 ; Dobber 47 | 45 | 35 en 68 PJ (42) | 45 (Oui) | AN1 à la place de Hamilton, confirmé par HLM (51) et Dobber (47) |
+| 4 | Rasmus Andersson | VGK | 29 | 171 | 46 | 46/49/45 | 46 | 47 en 81 PJ (48) | 48 (Non) | Plancher le plus sûr ; bon avec l'équipe Vegas |
+| 5 | Shea Theodore | VGK | 31 | 174 | 45 | 45/61/45 | 48 | 39 en 70 PJ (46) | — | Plafond venant de HLM seulement |
+| 6 | Thomas Harley | DAL | 25 | 197 | 41 | 41/48/42 | 42 | 36 en 70 PJ (42) | 49 (PP2) | Plafond crédible |
 | — | Filip Hronek | VAN | 28 | 161 | 48 | 48/44/50 | 48 | 49 en 82 PJ (49) | — | S'il reste : plancher stable, équipe faible |
 
 ### Ronde 8 : deuxième défenseur ou 3e défenseur
@@ -461,6 +627,9 @@ Avec la surenchère, ces défenseurs partent normalement dès les rondes 3 à 5.
 
 ## Points à vérifier avant le repêchage
 
+- **Sabres :** vérifie l'état de Luukkonen et de Lyon (Ellis partant le 1er octobre ?) et la date à partir de laquelle les points comptent dans PoolExpert.
+- **Régime des changements :** vérifie si PoolExpert permet encore les changements quotidiens (limite de 2 par semaine, avant la réinitialisation de 3 h) plutôt que le lundi seulement, comme le prévoit le point 2.3. Ça décide de la valeur d'un 2e gardien sur le banc.
+- **Gustavsson : blessure confirmée** (opéré à la hanche, retour vers début novembre). Si le retour est devancé, Wallstedt perd un peu de valeur. S'il est retardé, Wallstedt tend vers le haut de la fourchette (78 pts pool).
 - **Hellebuyck :** la durée de sa grève décide de la valeur de Skinner, qui a signé à Winnipeg le 1er juillet. La Liste des listes Gardiens le place encore à Pittsburgh, ce qui est dépassé.
 - **T.J. Hughes :** vérifie qu'il est sélectionnable dans PoolExpert, car il n'est pas dans le kit.
 - **Stenberg :** le kit ne prévoit que 52 matchs. Vérifie s'il risque d'être renvoyé en Europe ou en junior.
