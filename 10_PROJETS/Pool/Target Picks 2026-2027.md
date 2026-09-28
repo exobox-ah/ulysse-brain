@@ -27,7 +27,7 @@ Le **consensus** est la moyenne des sources corrigées, sur l'échelle du kit. U
 | 1-6 | 6 attaquants (2 défenseurs élites en R1-2 si tu es en position 19-21) | ★ en tête de liste ; Cooley, Fantilli (R6) ; Schaefer, Carlson s'ils glissent |
 | 7-8 | Défenseurs 1 et 2, ou un défenseur et un attaquant à potentiel visible | Theodore, Byram, C. Hutson, L. Hughes, Clarke ; McKenna, Frondell, Blake |
 | 9-11 | Gardien 1 et 2 attaquants à plafond | Wallstedt (équipe A), Ullmark (équipe B), Allen (B, R11) ; Stankoven, Benson, Coronato, Perreault |
-| 12-13 | Gardien 2 et un joueur établi | Skinner (A) ; Greaves, Knight ou Hofer (B) si Allen est parti ; ★ et ☆ de la ronde, V. Eklund, Seth Jones, Montour |
+| 12-13 | Gardien 2 et un joueur établi | Knight ou Skinner (A) ; Greaves, Hofer ou Knight (B) si Allen est parti ; ★ et ☆ de la ronde, V. Eklund, Seth Jones, Montour |
 | 14-15 | Équipe et 3e défenseur caché | Ottawa, Edmonton ; Nemec, Cagnoni, Ufko |
 | 16 | Ta signature | Helenius, Ilya Protas, Stenberg ou Kantserov s'il reste |
 
@@ -276,7 +276,7 @@ Défenseur 2 ou attaquant à potentiel visible. Positions 20-21 : un défenseur 
 
 ### Ronde 12 (choix 232 à 252)
 
-**Gardien 2 :** Skinner (R12-13) pour l'équipe de Wallstedt. Joueur établi ou sleeper appuyé.
+**Gardien 2 :** Knight ou Skinner (R12-13) pour l'équipe de Wallstedt. Joueur établi ou sleeper appuyé.
 
 | # | Joueur | Pos | Éq. | Rang kit | Kit / NHL / HLM / ESPN / Dob | 2025-26 | Consensus | Type | Note |
 |---|---|---|---|---|---|---|---|---|---|
@@ -306,7 +306,7 @@ Défenseur 2 ou attaquant à potentiel visible. Positions 20-21 : un défenseur 
 
 ### Ronde 13 (choix 253 à 273)
 
-**Gardien 2** si ce n'est pas fait (Skinner, puis Greaves, Knight, Hofer). **Équipe :** Edmonton ou Vegas au plus tard ici.
+**Gardien 2** si ce n'est pas fait (Greaves, Hofer, Knight, Skinner). **Équipe :** Edmonton ou Vegas au plus tard ici.
 
 | # | Joueur | Pos | Éq. | Rang kit | Kit / NHL / HLM / ESPN / Dob | 2025-26 | Consensus | Type | Note |
 |---|---|---|---|---|---|---|---|---|---|
@@ -366,7 +366,7 @@ Défenseur 2 ou attaquant à potentiel visible. Positions 20-21 : un défenseur 
 
 ### Ronde 16 (choix 316 à 336)
 
-Ta signature : l'attaquant caché.
+Ta signature : l'attaquant caché. Garde tes 2 attaquants de réserve dans les deux équipes.
 
 | # | Joueur | Pos | Éq. | Rang kit | Kit / NHL / HLM / ESPN / Dob | 2025-26 | Consensus | Type | Note |
 |---|---|---|---|---|---|---|---|---|---|
@@ -390,31 +390,33 @@ Ordre = points pool seul sur 84 matchs (simulation avec le vrai calendrier, rég
 
 | # | Gardien | Éq. | Rang kit | Prix (part vers le Ne gardien) | Pts pool seul | Ronde cible | Pour | Note |
 |---|---|---|---|---|---|---|---|---|
-| 1 | Jesper Wallstedt | MIN | G34 | 27e | 80 | **R10-11**, R9 si ton beau-père choisit entre tes deux choix | A | 1A tant que Gustavsson est absent (1er nov. au plus tôt) ; + Skinner : 94 |
+| 1 | Jesper Wallstedt | MIN | G34 | 27e | 80 | **R10-11**, R9 si ton beau-père choisit entre tes deux choix | A | 1A tant que Gustavsson est absent (1er nov. au plus tôt) ; + Blackwood : 94 ; + Allen, Greaves ou Luukkonen : 93 ; + Hofer ou Knight : 92 ; + Skinner : 91 |
 | 2 | Carter Hart | VGK | G16 | 17e | 76 | R9-10 | A ou B | Le meilleur après Wallstedt ; si encore là en R9-10, c'est un vol |
 | 3 | Scott Wedgewood | COL | G10 | 13e | 72 | R8-9 | A ou B | Même équipe que Blackwood : jamais les deux |
-| 4 | Linus Ullmark | OTT | G29 | 19e | 72 | **R9-10** | B | 9e de la Liste des listes Gardiens ; + Allen : 87 ; + Greaves, Knight ou Hofer : 84 |
+| 4 | Linus Ullmark | OTT | G29 | 19e | 72 | **R9-10** | B | 9e de la Liste des listes Gardiens ; + Allen : 87 ; + Greaves : 86 ; + Skinner : 85 ; + Knight ou Hofer : 84 |
 | 5 | Sergei Bobrovsky | TOR | G19 | 17e | 71 | R8-9 | A ou B | Nom connu : part souvent avant son prix |
 | 6 | Lukas Dostal | ANA | G13 | 12e | 69 | R7-8 | A ou B |  |
 | 7 | John Gibson | DET | G14 | 16e | 68 | R8-9 | A ou B |  |
-| 8 | Stuart Skinner | WPG | G49 | 36e | 68 | **R12-13** | A | Partant pendant la grève de Hellebuyck ; personne ne le voit (G49) |
-| 9 | Igor Shesterkin | NYR | G21 | 16e | 67 | R8-9 | A ou B | Nom connu : part souvent avant son prix |
-| 10 | Jake Allen | NJD | G18 | 23e | 67 | **R10-11** | B | Environ 53 matchs sans Rittich ; Ullmark + Allen : 87 |
-| 11 | Jet Greaves | CBJ | G25 | 25e | 67 | R11-12 | B | Partant tant que Merzlikins est blessé (30 nov. au plus tôt, 24 matchs) : +8 estimé ; passe devant Knight et Hofer |
-| 12 | Jacob Markstrom | FLA | G11 | 17e | 66 | R9-10 | A ou B | Nom connu : part souvent avant son prix |
-| 13 | Sergei Murashov | PIT | G17 | 17e | 66 | R9-10 | A ou B | Vérifie qu'il est bien le partant à Pittsburgh |
-| 14 | Dan Vladar | PHI | G12 | 12e | 64 | R7-8 | A ou B | Day-to-day |
-| 15 | Mackenzie Blackwood | COL | G23 | 22e | 64 | R10-11 | A ou B | Même équipe que Wedgewood : jamais les deux |
-| 16 | Ukko-Pekka Luukkonen | BUF | G20 | 18e | 63 | R9-10 | A ou B | Day-to-day ; Buffalo pourrait acquérir Hellebuyck |
-| 17 | Joel Hofer | STL | G24 | 24e | 63 | R10-11 | A ou B |  |
-| 18 | Spencer Knight | CHI | G30 | 31e | 61 | R12-13 | A ou B |  |
-| 19 | Jakub Dobes | MTL | G15 | 14e | 60 | R8-9 | A ou B | Taxe CH : partira plus tôt |
+| 8 | Igor Shesterkin | NYR | G21 | 16e | 67 | R8-9 | A ou B | Nom connu : part souvent avant son prix |
+| 9 | Jake Allen | NJD | G18 | 23e | 67 | **R10-11** | B | Environ 53 matchs sans Rittich ; Ullmark + Allen : 87 |
+| 10 | Jet Greaves | CBJ | G25 | 25e | 67 | R11-12 | B | Partant tant que Merzlikins est blessé (30 nov. au plus tôt, 24 matchs) : +8 estimé ; passe devant Knight et Hofer |
+| 11 | Jacob Markstrom | FLA | G11 | 17e | 66 | R9-10 | A ou B | Nom connu : part souvent avant son prix |
+| 12 | Sergei Murashov | PIT | G17 | 17e | 66 | R9-10 | A ou B | Vérifie qu'il est bien le partant à Pittsburgh |
+| 13 | Dan Vladar | PHI | G12 | 12e | 64 | R7-8 | A ou B | Day-to-day |
+| 14 | Mackenzie Blackwood | COL | G23 | 22e | 64 | R10-11 | A ou B | Même équipe que Wedgewood : jamais les deux |
+| 15 | Joel Hofer | STL | G24 | 24e | 63 | R10-11 | A ou B |  |
+| 16 | Spencer Knight | CHI | G30 | 31e | 61 | R12-13 | A ou B |  |
+| 17 | Jakub Dobes | MTL | G15 | 14e | 60 | R8-9 | A ou B | Taxe CH : partira plus tôt |
+| 18 | Ukko-Pekka Luukkonen | BUF | G20 | 18e | 60 | R9-10 | A ou B | Day-to-day ; 63 sans échange, 45 à 55 si Hellebuyck arrive à Buffalo |
+| 19 | Stuart Skinner | WPG | G49 | 36e | 57 | **R12-13** | A | 68 si la grève dure toute la saison ; 34 à 63 si Hellebuyck est échangé et qu'un gardien arrive en retour (voir les règles). Personne ne le voit (G49) |
 
 Règles :
-- **Wallstedt et Ullmark dans deux équipes différentes.** Plan : équipe A = Wallstedt + Skinner (94) ; équipe B = Ullmark + Allen (87) ou Greaves (84 et plus).
+- **Wallstedt et Ullmark dans deux équipes différentes.** Plan : équipe A = Wallstedt + un 2e gardien bon marché en R12-13, Knight (92) ou Skinner (91 en espérance) ; équipe B = Ullmark + Allen (87) ou Greaves (86). Derrière Wallstedt, tous les 2e gardiens se tiennent en 3 points : ne paie pas pour un 2e gardien dans l'équipe A.
 - Jamais deux gardiens de la même équipe LNH dans une de tes équipes (Wedgewood et Blackwood, par exemple).
-- Gardien 1 en rondes 9 à 11, gardien 2 en rondes 11 à 13. Si Wallstedt est volé, Ullmark + Skinner (88) ne coûte que 6 points : ne panique pas.
-- **Hors liste :** Hellebuyck seulement en 3e gardien en ronde 16. À éviter : Gustavsson (blessé), Jarry, Askarov, Kuemper, Silovs, Daws.
+- Gardien 1 en rondes 9 à 11, gardien 2 en rondes 11 à 13. Si Wallstedt est volé, Ullmark + Allen ou Greaves (86-87) ne coûte que 6 à 7 points : ne panique pas.
+- **Échange de Hellebuyck (Buffalo, Caroline, San José ; Utah moins probable) :** Winnipeg recevrait un gardien en retour, et Skinner perdrait son poste de partant. Pts pool de Skinner selon le gardien reçu (échange en octobre ou en mars) : avec Lyon 63 à 67, avec Kochetkov 53 à 64, avec Luukkonen 48 à 63, avec Askarov 44 à 62, avec Vejmelka 34 à 60 ; 68 si la grève dure. Espérance : 57. Luukkonen perd aussi son poste si Hellebuyck arrive à Buffalo. Bussi (CAR) et Vejmelka (UTA) deviendraient réservistes, mais ils sont hors liste de toute façon. Les espoirs cités (Kulich, Nikishin, Misa, But) ne sont pas dans tes listes.
+- **Hellebuyck : hors liste**, ni en 2e ni en 3e gardien, sauf s'il est échangé avant le repêchage (il redevient alors un gardien 1 de premier plan). En 3e gardien, il prendrait la place de ton 2e attaquant de réserve : environ +9 pts en moyenne s'il est échangé entre décembre et février, contre 6 à 12 pts pour l'attaquant dans une saison blessée comme 2025-26, sans le risque.
+- **À éviter :** Gustavsson (blessé), Jarry, Askarov, Kuemper, Silovs, Daws.
 
 ### Équipes, par ordre de priorité
 
@@ -483,6 +485,8 @@ Sources : `data/Blessés CBS.md` (dates de retour « au plus tôt ») et `data/n
 **En santé malgré un ancien signalement** (marqueur ° du kit ou liste de NHL.com, absents de CBS et de Rotowire) : Cale Makar (22), Mats Zuccarello (114), Jordan Spence (288), ainsi que Tippett, libéré sans restriction pour le camp. Makar a joué en présaison le 25 septembre et devrait être là au match d'ouverture.
 
 **Agents libres sans contrat, retirés de la liste :** le ° du kit marque aussi les joueurs non signés. Ceux-ci ne sont projetés ni par NHL.com, ni par HLM, ni par ESPN : Vladimir Tarasenko (164, kit 47), Michael Bunting (219, kit 38), Evander Kane (266, kit 33), James van Riemsdyk (275, kit 32), Reilly Smith (294, kit 30), Philipp Kurashev (309, kit 29), David Perron (325, kit 28), Michael Carcone (361, kit 25). Sans ballottage, un joueur qui ne signe pas bloque une place de banc toute la saison. **Tarasenko** : Floride et Edmonton sont les équipes intéressées. S'il signe avant le repêchage, il revient vers les rondes 8-9 (47 points en 75 matchs l'an dernier) ; sinon, seulement en ronde 16, comme pari.
+
+**Joueurs autonomes avec compensation (RFA) sans contrat, retirés de la liste :** CBS les inscrit « Contract Dispute » avec la date du prochain match comme date de retour : ce n'est pas une vraie estimation. Ils ne sont pas suspendus (sans contrat, il n'y a pas de suspension), ils ne peuvent simplement pas jouer. **Nikishin** (CAR, D, rang 390, kit 23 pts) a demandé à être échangé, ne s'est pas présenté au camp et a été cité dans une offre de la Caroline pour Hellebuyck en juin : ni offre hostile possible, ni délai. À éviter. **Edvinsson** (DET, D, rang 382, kit 24 pts) s'entraîne avec l'équipe sous un contrat d'essai, et les deux camps négocient pour signer avant le 2 octobre : il devrait être là, mais revérifie le soir du repêchage.
 
 **Gardiens :** Merzlikins (CBJ) est absent au moins jusqu'au 30 novembre, soit 24 matchs des Blue Jackets : Greaves devient le partant et passe devant Knight et Hofer comme 2e gardien de l'équipe B. Gustavsson est absent au moins jusqu'au 1er novembre (15 matchs du Wild), comme prévu pour Wallstedt. Andersen (EDM, 20 oct.) et Demko (VAN, 10 oct.) sont blessés ; Oettinger, Vladar, Luukkonen et Lyon sont day-to-day. Hellebuyck est toujours suspendu.
 
