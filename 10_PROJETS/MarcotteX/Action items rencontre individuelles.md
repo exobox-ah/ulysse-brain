@@ -2,6 +2,8 @@
 - [ ] S’assurer que Cédric est ouvert à être un relais
 
 
+Alysone Côté
+- 
 
 Lindsay Laprade
 
