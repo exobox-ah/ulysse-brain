@@ -114,13 +114,19 @@ Dobber n'a pas d'historique mesuré, et on n'a ses projections que pour 33 joueu
 | Matt Coronato | CGY | LW | 186 (R9) | 43 (77) | 57 (82) | +14 | 43/50/48 | 3,9 | Confirmé : **ronde 8** |
 | Mitch Marner | VGK | RW | 19 (R1) | 86 (82) | 99 (83) | +13 | 87/93/87 | 0,5 | En positions 19-21, rivalise avec un défenseur élite en ronde 1 |
 | Logan Stankoven | CAR | C | 192 (R10) | 42 (77) | 54 (82) | +12 | 42/53/41 | 3,3 | HLM et Dobber : **ronde 9** |
+| **Gabe Perreault** | NYR | RW | 251 (R12) | 35 (71) | 52 (79) | +17 | 37/50/— | 5,1 | **Trois sources** (HLM 50, Dobber 52, plan 57). Le moins cher des attaquants à plafond : **rondes 10-11** |
+| Mikael Granlund | ANA | C | 129 (R7) | 53 (71) | 52 (72) | −1 | 55/55/57 | — | Aligné sur le kit : plancher (top 6, AN, capitaine), aucun avantage. 34 ans, 58 matchs l'an dernier |
 | Gage Goncalves | TBL | C | 326 (R16) | 28 (67) | 39 (76) | +11 | absent | 5,3 | Pari de fin de repêchage (top 6 à Tampa) |
 | JJ Peterka | BOS | RW | 137 (R7) | 53 (84) | 63 (82) | +10 | 53/58/54 | 2,8 | Valeur en ronde 7 |
 | Mason McTavish | STL | C | 180 (R9) | 44 (75) | 53 (77) | +9 | 44/52/44 | 2,5 | HLM et Dobber : ronde 8 ou 9 |
 | Luke Evangelista | NJD | RW | 134 (R7) | 53 (81) | 61 (81) | +8 | 53/62/51 | 2,4 | HLM et Dobber : ronde 7 |
 | Noah Hanifin | VGK | D | 277 (R14) | 32 (75) | 40 (80) | +8 | absent | 3,4 | 3e défenseur tardif ; va avec Vegas |
 | Quinn Hughes | MIN | D | 31 (R2) | 80 (76) | 87 (77) | +7 | 80/88/81 | 0,6 | Rythme de 93 : cible n° 1 du duo élite |
+| Clayton Keller | UTA | RW | 16 (R1) | 90 (84) | 89 (82) | −1 | 91/92/93 | — | Toutes les sources autour de 90 : aucun écart de projection. L'avantage vient du marché (« souvent négligé », selon Dobber) et de sa santé (82 matchs l'an dernier, 88 points). **S'il glisse en ronde 2, saute dessus** |
+| Juraj Slafkovsky | MTL | LW | 55 (R3) | 70 (84) | 80 (83) | +10 | 70/80/71 | 1,0 | HLM et Dobber à 80 ; 73 points en 82 matchs l'an dernier. **Taxe CH** : il partira en ronde 2 ou au début de la ronde 3, soit à sa vraie valeur. À prendre seulement s'il est encore là à ton choix de ronde 3 |
+| John Carlson | TBL | D | 89 (R5) | 60 (75) | 68 (79) | +8 | 61/62/60 | 1,2 | 36 ans ; 60 points en 71 matchs (rythme 69). AN1 à Tampa devant Hedman. Visible (D11) : pas un sleeper, mais une bonne valeur en ronde 5-6 |
 | Luke Hughes | NJD | D | 209 (R10) | 40 (72) | 47 (76) | +7 | 40/51/38 | 2,2 | **AN1 à la place de Hamilton** : monte en ronde 7 |
+| **Shea Theodore** | VGK | D | 174 (R9) | 45 (70) | 61 (69) | +16 | 45/61/45 | 4,1 | **HLM et Dobber à 61** ; Dobber : « énorme valeur possible ». 1er défenseur de ta liste en ronde 7 |
 | **Brandt Clarke** | LAK | D | 243 (R12) | 36 (78) | 48 (83) | +12 | absent | — | Plan 55 (AN1) ; 40 points en 82 matchs l'an dernier. **Le défenseur de ta liste le moins cher** : ronde 8 |
 | Jamie Drysdale | PHI | D | 313 (R15) | 29 (75) | 36 (74) | +7 | absent | 3,8 | 180 minutes d'AN l'an dernier, percée possible |
 | Zeev Buium | VAN | D | 355 (non repêché) | 26 (78) | 32 (78) | +6 | absent | 4,0 | Plancher ; plus s'il obtient l'AN1 |
@@ -253,7 +259,7 @@ Critère : la projection la plus basse de la Liste des listes (le plancher) est 
 
 ### À ne pas surpayer (plafond venant uniquement de HLM, aucun autre appui)
 
-- Newhook (rang 332, 27/52/—), Landeskog, Perreault, Cowan, Doan, Theodore, Eklund, Pinto. McKenna est sorti de cette liste depuis que Dobber le projette à 70.
+- Newhook (rang 332, 27/52/—), Landeskog, Cowan, Doan, Eklund, Pinto. McKenna (Dobber 70), Theodore (Dobber 61) et Perreault (Dobber 52) sont sortis de cette liste.
 - Ce sont des billets de loterie à prendre à leur rang kit ou plus tard.
 
 ### Sources en désaccord (plancher sous le kit)
@@ -295,7 +301,7 @@ JFresh (hockeystats.com) donne une 3e source indépendante pour les équipes. Sa
 Recommandations :
 
 1. **Ottawa est le meilleur sleeper.** Le kit les place 28e sur 32, alors qu'ils ont fait 99 pts la saison dernière et que ton plan les met 10e. Tu devrais pouvoir les prendre à l'un de tes 3 derniers tours. **Ullmark** suit la même logique : rang G29 au kit, mais 9e selon la Liste des listes Gardiens (28/30/29 victoires). Avec 29 victoires, il vaudrait environ 75 pts pool, soit le niveau d'un gardien top 7, au prix d'un substitut.
-2. **Vegas et Montréal** sont des choix de milieu de repêchage à bon prix.
+2. **Vegas et Montréal** sont des choix de milieu de repêchage à bon prix. Attention à la **taxe CH** : dans ton pool, Montréal (et Dobes) partiront probablement plus tôt que le kit ne le prévoit. Vegas est le meilleur prix des deux.
    - Vegas : rang kit 13, 4e dans ton plan. Duo Hart-Hill ; Hart projette 71 pts pool (8 nulles, 4 blanchissages au kit).
    - Montréal : rang kit 16, 106 pts la saison dernière. Duo Dobes-Fowler ; Dobes est 13e selon la Liste des listes Gardiens.
 3. ~~**St. Louis** comme plan de repli tardif~~ : retiré, JFresh le voit 28e (85).
@@ -618,6 +624,7 @@ Avec la surenchère, ces défenseurs partent normalement dès les rondes 3 à 5.
 
 | Joueur | Éq. | Âge | Rang kit | Kit | LdL F/HLM/ESPN | Proj. retenue | 2025-26 (rythme 82) | Pourquoi |
 |---|---|---|---|---|---|---|---|---|
+| **John Carlson** | TBL | 36 | 89 | 60 | 61/62/60 ; **Dobber 68** | 61 | 60 en 71 PJ (69) | **Dobber le voit 8 points au-dessus du kit** : AN1 à Tampa. S'il est là en ronde 6, prends-le avant Michkov |
 | Miro Heiskanen | DAL | 27 | 94 | 59 | 59/68/60 | 61 | 63 en 77 PJ (67) | Probablement parti ; à saisir s'il glisse |
 | Roman Josi | NSH | 36 | 93 | 59 | 59/61/63 | 60 | 55 en 68 PJ (66) | Idem ; l'âge est un risque |
 | Jake Sanderson (bl.) | OTT | 24 | 119 | 55 | 55/74/56 | 58 | 54 en 67 PJ (66) | Plus haut plafond (HLM à 74) ; vérifier la blessure |
@@ -639,11 +646,11 @@ Avec la surenchère, ces défenseurs partent normalement dès les rondes 3 à 5.
 
 | Rang | Joueur | Éq. | Âge | Rang kit | Kit | LdL F/HLM/ESPN | Proj. retenue | 2025-26 (rythme 82) | Plan (AN) | Commentaire |
 |---|---|---|---|---|---|---|---|---|---|---|
-| 1 | Bowen Byram | CHI | 25 | 204 | 41 | 41/55/51 | 45 | 42 (42) | 50 (Oui) | **Priorité** : seul défenseur de ta liste confirmé par HLM et ESPN. Part au choix 127 selon le scénario fort |
-| 2 | **Cole Hutson** | WSH | 20 | 206 (D32) | 40 **en 63 PJ** | 40/50/— | 45 | 10 en 14 PJ (59) | — | **Plancher d'environ 52 sur 82 matchs** (0,63 pt par match au kit). Carlson est parti à Tampa, ce qui libère l'AN1 avec Chychrun. Plafond de 60 et plus : le plus haut de la ronde 7 |
-| 3 | **Luke Hughes** | NJD | 23 | 209 | 40 | 40/51/38 ; Dobber 47 | 45 | 35 en 68 PJ (42) | 45 (Oui) | AN1 à la place de Hamilton, confirmé par HLM (51) et Dobber (47) |
-| 4 | Rasmus Andersson | VGK | 29 | 171 | 46 | 46/49/45 | 46 | 47 en 81 PJ (48) | 48 (Non) | Plancher le plus sûr ; bon avec l'équipe Vegas |
-| 5 | Shea Theodore | VGK | 31 | 174 | 45 | 45/61/45 | 48 | 39 en 70 PJ (46) | — | Plafond venant de HLM seulement |
+| 1 | **Shea Theodore** | VGK | 31 | 174 | 45 | 45/61/45 ; **Dobber 61 en 69 PJ** | 53 | 39 en 70 PJ (46) | — | **Monté au 1er rang :** HLM et Dobber à 61 (rythme de 72) ; Dobber lui voit une « énorme » valeur. À 61, le kit le classerait vers le 87e rang (environ 4 rondes plus tôt). Risque : 69-70 matchs par saison. Part vers le choix 134-145 selon le scénario fort |
+| 2 | **Luke Hughes** | NJD | 23 | 209 | 40 | 40/51/38 ; Dobber 47 | 45 | 35 en 68 PJ (42) | 45 (Oui) | AN1 à la place de Hamilton, confirmé par HLM (51) et Dobber (47). Le plus sûr de l'AN1 dès le début de la saison |
+| 3 | **Cole Hutson** | WSH | 20 | 206 (D32) | 40 **en 63 PJ** | 40/50/— | 45 | 10 en 14 PJ (59) | — | **Baissé :** Dobber l'a pris pour son potentiel et pense qu'il prendra l'AN1 **plus tard dans la saison**, donc pas au départ. Plancher réaliste d'environ 45, plafond de 60 et plus |
+| 4 | Bowen Byram | CHI | 25 | 204 | 41 | 41/55/51 | 45 | 42 (42) | 50 (Oui) | **Baissé :** Bedard est absent en début de saison, ce qui réduit ses passes au départ. Confirmé par HLM et ESPN. Part au choix 127 selon le scénario fort |
+| 5 | Rasmus Andersson | VGK | 29 | 171 | 46 | 46/49/45 | 46 | 47 en 81 PJ (48) | 48 (Non) | Plancher sûr, mais en concurrence avec Theodore pour l'AN à Vegas : ne prends pas les deux |
 | 6 | Thomas Harley | DAL | 25 | 197 | 41 | 41/48/42 | 42 | 36 en 70 PJ (42) | 49 (PP2) | Plafond crédible |
 | — | Filip Hronek | VAN | 28 | 161 | 48 | 48/44/50 | 48 | 49 en 82 PJ (49) | — | S'il reste : plancher stable, équipe faible |
 
@@ -652,8 +659,8 @@ Avec la surenchère, ces défenseurs partent normalement dès les rondes 3 à 5.
 | Rang | Joueur | Éq. | Âge | Rang kit | Kit | LdL F/HLM/ESPN | 2025-26 (rythme 82) | Plan (AN) | Commentaire |
 |---|---|---|---|---|---|---|---|---|---|
 | 1 | Le reste de la liste de la ronde 7 | | | | | | | | Harley et Luke Hughes partent vers les choix 163-169 selon le scénario modéré |
-| 3 | Thomas Chabot | OTT | 29 | 235 | 36 | 36/42/45 | 31 en 57 PJ (45) | — | ESPN à 45 ; va avec l'équipe Ottawa |
 | 2 | **Brandt Clarke** | LAK | 23 | 243 | 36 | absent ; **Dobber 48** | 40 en 82 PJ (40) | 55 (Oui) | **Monté :** Dobber (48) et ton plan (55) au-dessus du kit, AN1, et un plancher de 40 sur 82 matchs. Équivalent de Byram, deux rondes moins cher au kit. Part au choix 167 selon le scénario fort |
+| 3 | Thomas Chabot | OTT | 29 | 235 | 36 | 36/42/45 | 31 en 57 PJ (45) | — | ESPN à 45 ; va avec l'équipe Ottawa |
 | 4 | Seth Jones | FLA | 31 | 264 | 33 | 33/47/37 | 32 en 52 PJ (50) | 52 (Oui) | Rythme de 50 la saison dernière |
 | 5 | Sam Malinski | COL | 28 | 255 | 35 | absent | 40 (40) | 43 (Non) | Stable, sans AN |
 
@@ -715,7 +722,7 @@ La question n'est pas « qui projette le plus », mais « qui ne sera plus là �
 
 ### Rondes 9 à 11 : attaquants à plafond
 
-Avec la surenchère sur les défenseurs, les attaquants classés entre les rangs 165 et 260 du kit glissent vers les rondes 9 à 12. Ceux qui ont au moins deux sources au-dessus du kit :
+Avec la surenchère sur les défenseurs, les attaquants classés entre les rangs 165 et 260 du kit glissent vers les rondes 9 à 12. Ceux dont le plafond est appuyé par au moins deux éléments parmi HLM, ESPN, Dobber, ton plan et le rythme 2025-26 (Doan n'a que HLM comme source externe : ne le surpaie pas) :
 
 | Joueur | Éq. | Âge | Rang kit | Kit | Sources au-dessus | 2025-26 (rythme 82) | Lecture |
 |---|---|---|---|---|---|---|---|
@@ -723,7 +730,7 @@ Avec la surenchère sur les défenseurs, les attaquants classés entre les rangs
 | Josh Doan | BUF | 24 | 175 | 45 | HLM 61 | 52 en 82 PJ (52) | Plancher de 52 déjà atteint, 82 matchs |
 | Matt Coronato | CGY | 23 | 186 | 43 | Dobber 57, plan 53, HLM 50 | 45 en 80 PJ (46) | Trois sources ; ronde 8 ou 9 |
 | Frank Nazar | CHI | 22 | 211 | 40 | HLM 58, ESPN 46 | 41 en 66 PJ (51) | Plafond ; même équipe que Frondell et Kantserov |
-| Gabe Perreault | NYR | 21 | 251 | 35 | plan 57, HLM 50 | 27 en 49 PJ (45) | Moins cher du groupe |
+| **Gabe Perreault** | NYR | 21 | 251 | 35 | **Dobber 52**, plan 57, HLM 50 | 27 en 49 PJ (45) | Trois sources ; le moins cher du groupe |
 | Logan Stankoven | CAR | 23 | 192 | 42 | Dobber 54, HLM 53 | 44 en 81 PJ (45) | Sûr, plafond modéré |
 | Mavrik Bourque | NSH | 24 | 253 | 35 | plan 55, HLM 52 | 41 en 82 PJ (41) | 82 matchs ; peut glisser en ronde 12 |
 | Collin Graf | SJS | 24 | 225 | 37 | plan 54, HLM 50 | 46 en 81 PJ (47) | Plancher de 46, 81 matchs |
@@ -731,12 +738,41 @@ Avec la surenchère sur les défenseurs, les attaquants classés entre les rangs
 
 Évite d'empiler trois Sabres (Benson, Doan, Norris) ou trois Blackhawks (Frondell, Nazar, Kantserov) dans la même équipe.
 
+### Leçons du repêchage simulé de Dobber (multi-catégories, 14 équipes, 16 rondes)
+
+Dobber repêchait 9e sur 14. Ses choix, comparés au rang du kit :
+
+| Choix | Joueur | Rang kit | Écart |
+|---|---|---|---|
+| 9 | Robertson | 10 | = |
+| 20 | Necas | 9 | glissé de 11 |
+| 37 | Reinhart | 52 | devancé de 15 (rebond de la Floride, JFresh 108) |
+| 48 | Guenther | 54 | = |
+| 65 | Fox | 41 | glissé de 24 |
+| 76 | Bratt | 38 | glissé de 38 |
+| 93 | Aho | 28 | **glissé de 65** |
+| 104 | C. Hutson | 206 | **devancé de 102** |
+| 121 | Clarke | 243 | **devancé de 122** |
+| 132 | Byram | 204 | devancé de 72 |
+| 149 | Fantilli | 107 | glissé de 42 |
+| 160 | Malinski | 255 | devancé de 95 |
+| 177 | Peterka | 137 | glissé de 40 |
+| 188 | Cozens | 103 | glissé de 85 |
+| 15e-16e rondes | Hofer, Askarov | G24, G22 | Zéro gardien |
+
+- **Ta liste de défenseurs est celle d'un expert.** Hutson, Clarke et Byram aux rondes 8 à 10 : exactement ta liste. Mais aux choix 104 à 132, ce qui correspond aux **rondes 5 à 7** d'un pool de 21. Si des lecteurs de Dobber sont dans ton pool, Clarke ne se rendra pas en ronde 8.
+- **Les attaquants établis glissent quand les experts chassent le potentiel :** Aho, Bratt, Fox, Peterka, Cozens et même Fantilli sont partis de 24 à 85 rangs après le kit. Ça confirme la règle : les attaquants à plancher reviennent plus tard, les défenseurs de ta liste non.
+- **Fantilli au choix 149 :** il peut se rendre à ta ronde 6 ou 7. Garde-le en ronde 6, pas en ronde 5. Dobber mentionne une « saga Marchenko » à Columbus : à vérifier.
+- **Nouvelles tirées des commentaires :** Bedard est absent en début de saison (Byram baisse ; Frondell et Nazar gagnent du temps de glace au départ). Cozens devrait profiter du départ de Brady Tkachuk à Ottawa.
+- **Le zéro gardien ne s'applique pas à ton pool.** En multi-catégories avec ballottage, les gardiens se remplacent. Chez toi, sans ballottage, Hofer + Askarov ne vaut que 75 pts pool contre 94 pour Wallstedt + Skinner. Par contre, ça confirme que les experts trouvent les gardiens bon marché : Skinner en ronde 12-13 tient.
+- Contexte : multi-catégories (tirs, mises en échec, admissibilité LW/RW) et ballottage disponible. Seuls les défenseurs offensifs et le comportement du marché se transposent à ton pool.
+
 ### Ton gabarit de 16 choix
 
 | Rondes | Choix | Cibles |
 |---|---|---|
-| 1-6 | 6 attaquants | Fantilli (R5-6), Michkov (R6) |
-| 7-8 | Défenseurs 1 et 2, ou un défenseur et un attaquant à potentiel visible | Byram, C. Hutson, Luke Hughes, Clarke ; McKenna, Frondell |
+| 1-6 | 6 attaquants | Fantilli (R6), Michkov (R6-7) ; Carlson (D) s'il glisse en R6 |
+| 7-8 | Défenseurs 1 et 2, ou un défenseur et un attaquant à potentiel visible | Theodore, Luke Hughes, C. Hutson, Byram, Clarke ; McKenna, Frondell |
 | 9-11 | **Gardien 1** et 2 attaquants à plafond | Ullmark (R9-10) ou Wallstedt (R10-11) ; Benson, Doan, Coronato, Nazar, Perreault |
 | 12-13 | **Gardien 2** et un joueur établi | Skinner ; Graf, Bourque, Stankoven, ou Hanifin, Chabot en défense |
 | 14-15 | Équipe et 3e défenseur caché | Ottawa ou Edmonton ; Nemec, Cagnoni, Ufko |
