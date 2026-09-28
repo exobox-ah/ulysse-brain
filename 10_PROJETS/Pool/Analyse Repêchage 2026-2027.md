@@ -16,6 +16,13 @@ Préparé à partir du kit PoolExpert (`data/draftkit-fr-*.xlsx`), des Listes de
   - **Stenberg** est projeté à 65 points par Dobber : il passe de pari à diamant confirmé.
   - **Cagnoni** est confirmé dans l'alignement des Sharks.
   - **T.J. Hughes** (COL, AN1) est absent du kit : vérifie qu'on peut le sélectionner sur PoolExpert.
+- **Projections Dobber (33 joueurs) : les plus gros écarts avec le kit.**
+  - **Fantilli** : 79 points (kit 57, ronde 6). Le meilleur attaquant à viser aux rondes 5-6.
+  - **McKenna** : 70 (kit 42, ronde 10). Avec HLM à 64, deux sources le voient maintenant bien plus haut.
+  - **Michkov** : 68 (kit 51, ronde 7).
+  - **Marner** : 99 (kit 86, rang 19).
+  - En défense : **Nemec** (46, contre 24 au kit, rang 384) et **Luke Hughes** (47, sur l'AN1 à la place de Hamilton).
+  - **À éviter : Patrick Kane** (Dobber 53 en 65 matchs, contre 64 au kit).
 - **Les meilleurs gardiens valent plus que prévu.** Avec 2 points par victoire, 1 par nulle et 3 par blanchissage, Vasilevskiy (96 pts pool) vaut un choix de ronde 2, et Oettinger ou Sorokin un choix de ronde 3. Ta liste de gardiens pour les rondes 7-11 se situe au niveau de remplacement (environ 59 pts) : attendre coûte peu, mais les écarts entre eux sont faibles.
 
 ## Règles qui touchent la stratégie
@@ -82,6 +89,44 @@ Ce qu'on en retient :
 
 Dans les tableaux qui suivent, les « LdL F/HLM/ESPN » sont les trois projections 2026-27 de la Liste des listes. Le « consensus » en est la moyenne pondérée. Les « rondes gagnées » mesurent de combien de rondes le joueur devrait être repêché plus tôt si le marché croyait ta projection ou le consensus.
 
+## Projections Dobber (source ajoutée)
+
+Dobber n'a pas d'historique mesuré, et on n'a ses projections que pour 33 joueurs. Je l'utilise donc comme source de confirmation : un plafond est crédible quand Dobber et une autre source (HLM ou ESPN) le voient tous deux au-dessus du kit. Les « rondes gagnées » indiquent combien de rondes plus tôt le joueur partirait si le kit avait la projection de Dobber.
+
+| Joueur | Éq. | Pos | Rang kit (ronde) | Kit (PJ) | Dobber (PJ) | Dobber − kit | LdL F/HLM/ESPN | Rondes gagnées | Lecture |
+|---|---|---|---|---|---|---|---|---|---|
+| Ivar Stenberg | SJS | LW | 375 (non repêché) | 24 (52) | 65 (79) | +41 | absent | 14,4 | Plan 61 et Dobber 65 : **rondes 10 à 12** |
+| Gavin McKenna | TOR | LW | 191 (R10) | 42 (72) | 70 (82) | +28 | 42/64/42 | 6,6 | **HLM et Dobber** : à prendre **aux rondes 7 et 8** |
+| Roman Kantserov | CHI | RW | 320 (R16) | 28 (49) | 55 (82) | +27 | absent | 9,8 | Plan 45 et Dobber 55 : **rondes 12 à 14** |
+| Adam Fantilli | CBJ | C | 107 (R6) | 57 (81) | 79 (83) | +22 | 57/65/60 | 3,4 | **Priorité aux rondes 5 et 6** : HLM, ESPN et Dobber au-dessus |
+| Simon Nemec | CGY | D | 384 (non repêché) | 24 (73) | 46 (78) | +22 | absent | 10,4 | **Défenseur sleeper** ; 26 points en 68 matchs, 19:40 de temps de glace |
+| Matvei Michkov | PHI | RW | 146 (R7) | 51 (77) | 68 (83) | +17 | 51/60/55 | 4,2 | Diamant du plan confirmé : **prends-le en ronde 6** |
+| Matt Coronato | CGY | LW | 186 (R9) | 43 (77) | 57 (82) | +14 | 43/50/48 | 3,9 | Confirmé : **ronde 8** |
+| Mitch Marner | VGK | RW | 19 (R1) | 86 (82) | 99 (83) | +13 | 87/93/87 | 0,5 | En positions 19-21, rivalise avec un défenseur élite en ronde 1 |
+| Logan Stankoven | CAR | C | 192 (R10) | 42 (77) | 54 (82) | +12 | 42/53/41 | 3,3 | HLM et Dobber : **ronde 9** |
+| Gage Goncalves | TBL | C | 326 (R16) | 28 (67) | 39 (76) | +11 | absent | 5,3 | Pari de fin de repêchage (top 6 à Tampa) |
+| JJ Peterka | BOS | RW | 137 (R7) | 53 (84) | 63 (82) | +10 | 53/58/54 | 2,8 | Valeur en ronde 7 |
+| Mason McTavish | STL | C | 180 (R9) | 44 (75) | 53 (77) | +9 | 44/52/44 | 2,5 | HLM et Dobber : ronde 8 ou 9 |
+| Luke Evangelista | NJD | RW | 134 (R7) | 53 (81) | 61 (81) | +8 | 53/62/51 | 2,4 | HLM et Dobber : ronde 7 |
+| Noah Hanifin | VGK | D | 277 (R14) | 32 (75) | 40 (80) | +8 | absent | 3,4 | 3e défenseur tardif ; va avec Vegas |
+| Quinn Hughes | MIN | D | 31 (R2) | 80 (76) | 87 (77) | +7 | 80/88/81 | 0,6 | Rythme de 93 : cible n° 1 du duo élite |
+| Luke Hughes | NJD | D | 209 (R10) | 40 (72) | 47 (76) | +7 | 40/51/38 | 2,2 | **AN1 à la place de Hamilton** : monte en ronde 7 |
+| Jamie Drysdale | PHI | D | 313 (R15) | 29 (75) | 36 (74) | +7 | absent | 3,8 | 180 minutes d'AN l'an dernier, percée possible |
+| Zeev Buium | VAN | D | 355 (non repêché) | 26 (78) | 32 (78) | +6 | absent | 4,0 | Plancher ; plus s'il obtient l'AN1 |
+| Jack Roslovic | TOR | RW | 237 (R12) | 36 (72) | 41 (77) | +5 | absent | 1,9 | Pari s'il reste avec Matthews et sur l'AN1 |
+| Matthew Wood | NSH | RW | 295 (R15) | 30 (74) | 35 (74) | +5 | absent | 2,2 | Déjà essayé sur l'AN1 : pari de fin de repêchage |
+| Brock Boeser | VAN | RW | 126 (R6) | 54 (77) | 58 (79) | +4 | 55/53/57 | 1,3 | Juste prix |
+| Artemi Panarin | LAK | LW | 13 (R1) | 91 (81) | 94 (82) | +3 | 91/76/95 | 0,1 | Juste prix (HLM à 76 le freine) |
+| Tim Stützle | OTT | C | 24 (R2) | 84 (82) | 87 (80) | +3 | 84/86/78 | 0,2 | Juste prix |
+| Mikhail Sergachev | UTA | D | 109 (R6) | 56 (76) | 59 (79) | +3 | 56/66/56 | 0,9 | Juste prix |
+| Mats Zuccarello (bl.) | LAK | RW | 114 (R6) | 55 (62) | 57 (68) | +2 | 55/50/55 | 0,4 | Pari santé |
+| Celebrini, Pastrnak, Crosby, Kempe, Trocheck | | | 4 à 98 | | | 0 à +1 | | 0 | Dobber est d'accord avec le kit |
+| Philip Broberg | STL | D | 286 (R14) | 31 (74) | 31 (74) | 0 | absent | 0 | **Aucun avantage** ; Dobber suggère plutôt Logan Mailloux (STL, rang 533) |
+| Valeri Nichushkin | CBJ | LW | 123 (R6) | 54 (73) | 53 (69) | -1 | 55/54/59 | 0 | Pari santé |
+| **Patrick Kane** | CHI | RW | 73 (R4) | 64 (74) | 53 (65) | **-11** | 64/48/58 | -2,6 | **À éviter** : HLM et Dobber sous le kit |
+
+**Gardien :** Dobber donne 29 victoires en 56 matchs à Lukas Dostal (ANA), comme la Liste des listes (29), contre 27 au kit. Ça représente environ 63 pts pool au lieu de 59, un peu au-dessus du niveau de remplacement.
+
 ## Objectif 1 : tes diamants cachés
 
 ### Attaquants (liste « breakout »)
@@ -93,11 +138,11 @@ Dans les tableaux qui suivent, les « LdL F/HLM/ESPN » sont les trois projectio
 | Will Smith | SJS | 92 (R5) | 59 | 75 | 59/78/59 | 65 | 59 en 69 PJ (70) | 2,3 / 0,9 | **Confirmé** |
 | Ivan Demidov (bl.) | MTL | 101 (R5) | 58 | 70 | 58/77/59 | 65 | 62 (62) | 2,3 / 1,3 | **Confirmé** (vérifier la blessure) |
 | Marco Rossi | VAN | 145 (R7) | 51 | 54 | 51/56/57 | 55 | 35 en 50 PJ (57) | 1,0 / 1,0 | **Confirmé** |
-| Matvei Michkov | PHI | 146 (R7) | 51 | 57 | 51/60/55 | 55 | 51 (52) | 2,0 / 1,5 | **Confirmé** |
+| Matvei Michkov | PHI | 146 (R7) | 51 | 57 | 51/60/55 ; Dobber 68 | 55 | 51 (52) | 2,0 / 1,5 | **Confirmé (Dobber 68) : ronde 6** |
 | Igor Chernyshov | SJS | 155 (R8) | 49 | 54 | 49/46/19 | 39 | 19 en 28 PJ (56) | 1,5 / -2,9 | Plafond crédible ; ESPN à 19 fait peur |
 | Jack Quinn | BUF | 165 (R8) | 47 | 53 | 48/55/43 | 49 | 51 (51) | 1,8 / 0,3 | Plafond crédible, prix juste |
 | Anton Frondell | CHI | 179 (R9) | 44 | 62 | 44/45/— | 44 | 9 en 12 PJ | 4,7 / 0 | Pari : ton plan seul |
-| Matt Coronato | CGY | 186 (R9) | 43 | 53 | 43/50/48 | 47 | 45 (46) | 2,8 / 1,0 | **Confirmé** |
+| Matt Coronato | CGY | 186 (R9) | 43 | 53 | 43/50/48 ; Dobber 57 | 47 | 45 (46) | 2,8 / 1,0 | **Confirmé (Dobber 57) : ronde 8** |
 | Zach Benson | BUF | 190 (R10) | 42 | 61 | 43/62/40 | 48 | 43 en 65 PJ (54) | 5,1 / 1,5 | **Confirmé** (plafond venant de HLM) |
 | Yegor Chinakhov | PIT | 200 (R10) | 41 | 62 | 41/45/37 | 41 | 42 (48) | 5,7 / 0,1 | Pari : ton plan seul |
 | Collin Graf | SJS | 225 (R11) | 37 | 54 | 37/50/38 | 42 | 46 (47) | 4,9 / 1,3 | **Confirmé** |
@@ -107,9 +152,9 @@ Dans les tableaux qui suivent, les « LdL F/HLM/ESPN » sont les trois projectio
 | Benjamin Kindel (bl.) | PIT | 256 (R13) | 35 | 45 | absent | — | 35 (37) | 4,0 / — | Pari |
 | Matvei Gridin | CGY | 263 (R13) | 33 | 46 | absent | — | 20 en 37 PJ (44) | 4,6 / — | **Confirmé par le rythme** |
 | Matt Savoie (bl.) | EDM | 278 (R14) | 32 | 49 | 33/45/39 | 39 | 37 (37) | 6,1 / 3,0 | **Confirmé** (valeur tardive) |
-| Matthew Wood | NSH | 295 (R15) | 30 | 44 | absent | — | 30 (35) | 5,5 / — | Pari |
+| Matthew Wood | NSH | 295 (R15) | 30 | 44 | absent ; Dobber 35 | — | 30 (35) | 5,5 / — | Pari ; essayé sur l'AN1 selon Dobber |
 | Andrei Kuzmenko (bl.) | PIT | 304 (R15) | 29 | 44 | absent | — | 25 en 52 PJ (39) | 6,0 / — | Confirmé par le rythme, mais blessé |
-| Roman Kantserov | CHI | 320 (R16) | 28 | 45 | absent | — | recrue | 7,0 / — | Pari |
+| Roman Kantserov | CHI | 320 (R16) | 28 | 45 | absent ; **Dobber 55** | — | recrue | 7,0 / — | **Confirmé par Dobber : rondes 12 à 14** |
 | Arseny Gritsyuk | NJD | 322 (R16) | 28 | 50 | absent | — | 31 en 66 PJ (39) | 8,3 / — | Pari |
 | Ivar Stenberg | SJS | 375 (non repêché) | 24 (52 PJ) | 61 | absent ; **Dobber 65** | — | recrue | 13,9 / — | **Confirmé par Dobber** |
 | Konsta Helenius | BUF | 376 (non repêché) | 24 | 49 | absent | — | recrue | 10,8 / — | Pari, dernier choix |
@@ -118,6 +163,7 @@ Dans les tableaux qui suivent, les « LdL F/HLM/ESPN » sont les trois projectio
 À retenir :
 
 - **Diamants confirmés par au moins une autre source et au rythme 2025-26 :** Will Smith et Demidov (ronde 5), Rossi et Michkov (ronde 7), Coronato et Benson (rondes 9-10), Graf (ronde 11), Bourque, Gridin et Savoie (rondes 13-14). Pour ceux-là, ton plan tient.
+- **Dobber confirme aussi Stenberg (65), Kantserov (55), Michkov (68) et Coronato (57).** Avance Michkov en ronde 6 et Coronato en ronde 8 : les lecteurs de Dobber vont les voir.
 - **Tes projections du plan (NHL.com) sont en moyenne bien au-dessus de toutes les autres sources.** Pour Frondell, Chinakhov, Mikheyev et Gritsyuk, aucune source ne va plus haut que 45 à 50 points. Ce sont des paris, pas des diamants : ne les prends pas avant leur rang kit.
   - Frondell et Chinakhov : pas avant les rondes 9-10.
   - Helenius et Dvorsky : ils ne seront probablement pas repêchés, donc garde-les pour tes 2-3 derniers choix.
@@ -134,13 +180,13 @@ Dans les tableaux qui suivent, les « LdL F/HLM/ESPN » sont les trois projectio
 | Rasmus Andersson | VGK | 171 (R9) | 46 (83) | 48 (Non) | 46/49/45 | 47 | 47 (48) | 23:12 | Au prix du marché |
 | Thomas Harley | DAL | 197 (R10) | 41 (75) | 49 (PP2) | 41/48/42 | 44 | 36 en 70 PJ (42) | 23:03 | Plafond crédible |
 | Bowen Byram | CHI | 204 (R10) | 41 (83) | 50 (Oui) | 41/55/51 | 49 | 42 (42) | 22:22 | **Confirmé (HLM et ESPN)** |
-| Luke Hughes | NJD | 209 (R10) | 40 (72) | 45 (Oui) | 40/51/38 | 43 | 35 en 68 PJ (42) | 23:01 | Confirmé (léger) |
+| Luke Hughes | NJD | 209 (R10) | 40 (72) | 45 (Oui) | 40/51/38 ; Dobber 47 | 43 | 35 en 68 PJ (42) | 23:01 | **Confirmé** : AN1 à la place de Hamilton (Dobber) |
 | Brandt Clarke | LAK | 243 (R12) | 36 (78) | 55 (Oui) | absent | — | 40 (40) | 19:46 | Pari |
 | Sam Malinski | COL | 255 (R13) | 35 (77) | 43 (Non) | absent | — | 40 (40) | 17:36 | Confirmé par le rythme |
 | Seth Jones | FLA | 264 (R13) | 33 (71) | 52 (Oui) | 33/47/37 | 39 | 32 en 52 PJ (50) | 23:38 | **Confirmé** (rythme 50 avec les Panthers) |
-| Philip Broberg | STL | 286 (R14) | 31 (74) | 48 (Oui) | absent | — | 34 (34) | 23:22 | Pari |
-| Jamie Drysdale | PHI | 313 (R15) | 29 (75) | 45 (Oui) | absent | — | 32 (34) | 21:36 | Pari |
-| Zeev Buium | VAN | 355 (non repêché) | 26 (78) | 40 (Oui) | absent | — | 26 (28) | 19:33 | Pari |
+| Philip Broberg | STL | 286 (R14) | 31 (74) | 48 (Oui) | absent ; Dobber 31 | — | 34 (34) | 23:22 | **Rejeté** : Dobber = kit ; Mailloux est le pari moins cher |
+| Jamie Drysdale | PHI | 313 (R15) | 29 (75) | 45 (Oui) | absent ; Dobber 36 | — | 32 (34) | 21:36 | Pari appuyé : percée possible selon Dobber |
+| Zeev Buium | VAN | 355 (non repêché) | 26 (78) | 40 (Oui) | absent ; Dobber 32 (plancher) | — | 26 (28) | 19:33 | Pari : plus s'il obtient l'AN1 |
 | Zayne Parekh | CGY | 405 (non repêché) | 22 (61) | 40 (Oui) | absent | — | 9 en 37 PJ (20) | 17:06 | Pari |
 | Ryan Ufko | NSH | 585 (non repêché) | 11 (34) | 50 (PP2) | absent | — | 11 en 18 PJ (50) | 13:46 | Pari : le kit ne le voit pas dans l'alignement |
 | Luca Cagnoni | SJS | 610 (non repêché) | 10 (48) | 40 (Oui) | absent | — | 0 en 3 PJ | 18:00 | **Confirmé dans l'alignement (nouvelle du jour)** ; le kit est dépassé |
@@ -170,6 +216,19 @@ Critère : la projection la plus basse de la Liste des listes (le plancher) est 
 | Thomas Chabot | OTT | D | 29 | 235 (R12) | 36 (66) | 36/42/45 | 41 | 31 en 57 PJ (45) | Défenseur 3 tardif |
 | Matt Savoie (bl.) | EDM | C | 22 | 278 (R14) | 32 (76) | 33/45/39 | 39 | 37 (37) | Valeur tardive |
 
+### Plafond confirmé par HLM et Dobber (nouveau)
+
+| Joueur | Éq. | Pos | Rang kit (ronde) | Kit | LdL F/HLM/ESPN | Dobber | Commentaire |
+|---|---|---|---|---|---|---|---|
+| Adam Fantilli | CBJ | C | 107 (R6) | 57 | 57/65/60 | **79** | Trois sources au-dessus du kit : **meilleur choix des rondes 5 et 6** |
+| Matvei Michkov | PHI | RW | 146 (R7) | 51 | 51/60/55 | 68 | Diamant du plan : ronde 6 |
+| Luke Evangelista | NJD | RW | 134 (R7) | 53 | 53/62/51 | 61 | Ronde 7 |
+| JJ Peterka | BOS | RW | 137 (R7) | 53 | 53/58/54 | 63 | Ronde 7 |
+| Matt Coronato | CGY | LW | 186 (R9) | 43 | 43/50/48 | 57 | Ronde 8 |
+| Mason McTavish | STL | C | 180 (R9) | 44 | 44/52/44 | 53 | Ronde 8 ou 9 |
+| Gavin McKenna | TOR | LW | 191 (R10) | 42 | 42/64/42 | **70** | Plus gros écart du groupe : **rondes 7 et 8** |
+| Logan Stankoven | CAR | C | 192 (R10) | 42 | 42/53/41 | 54 | Ronde 9 |
+
 ### Plafond venant de HLM seulement, mais appuyé par le rythme 2025-26
 
 | Joueur | Éq. | Pos | Rang kit (ronde) | Kit | LdL F/HLM/ESPN | 2025-26 (rythme 82) | Commentaire |
@@ -183,13 +242,14 @@ Critère : la projection la plus basse de la Liste des listes (le plancher) est 
 
 ### À ne pas surpayer (plafond venant uniquement de HLM, aucun autre appui)
 
-- Newhook (rang 332, 27/52/—), McKenna (rang 191, 42/64/42), Landeskog, Perreault, Cowan, Doan, Theodore, Eklund, Pinto.
+- Newhook (rang 332, 27/52/—), Landeskog, Perreault, Cowan, Doan, Theodore, Eklund, Pinto. McKenna est sorti de cette liste depuis que Dobber le projette à 70.
 - Ce sont des billets de loterie à prendre à leur rang kit ou plus tard.
 
 ### Sources en désaccord (plancher sous le kit)
 
 - **Seth Jarvis** (69/**32**/68) : HLM intègre sa blessure. Le kit le place au rang 59 ; retour prévu entre fin octobre et début décembre.
-- **Ovechkin** (69/48/68) et **Patrick Kane** (64/48/58) : HLM croit au déclin.
+- **Ovechkin** (69/48/68) : HLM croit au déclin.
+- **Patrick Kane** (64/48/58) : HLM et maintenant **Dobber (53 en 65 matchs)** le voient sous le kit (64). Ne le prends pas au rang 73.
 - **Protas** (49/33/53) et **Chernyshov** (49/46/19) : rôle incertain.
 - **Porter Martone** (73/57/—) : le kit (72) est déjà au sommet de la fourchette.
 
@@ -328,7 +388,7 @@ Comment lire ces résultats :
 | 61 | Philip Broberg | 286 | 289 / 241 / 206 |
 | 67 | Jamie Drysdale | 313 | — / 261 / 223 |
 
-**Correction par rapport à ma première version :** avec la surenchère, ta liste pour les rondes 7-8 (Byram, Harley, Luke Hughes, Andersson, puis Clarke) correspond au marché réel de ton pool. Les vrais paris à garder pour la fin sont Broberg, Drysdale, Buium, Parekh et Ufko, ainsi que Cagnoni (voir plus bas).
+**Correction par rapport à ma première version :** avec la surenchère, ta liste pour les rondes 7-8 (Byram, Harley, Luke Hughes, Andersson, puis Clarke) correspond au marché réel de ton pool. Les vrais paris à garder pour la fin sont Cagnoni et Nemec, suivis de Drysdale, Hanifin, Buium, Parekh et Ufko (voir plus bas). Dobber rétrograde Broberg.
 
 La « projection retenue » dans les tableaux suivants est la moyenne du kit et du consensus de la Liste des listes.
 
@@ -360,10 +420,10 @@ Avec la surenchère, ces défenseurs partent normalement dès les rondes 3 à 5.
 | Rang | Joueur | Éq. | Âge | Rang kit | Kit | LdL F/HLM/ESPN | Proj. retenue | 2025-26 (rythme 82) | Plan (AN) | Commentaire |
 |---|---|---|---|---|---|---|---|---|---|---|
 | 1 | Bowen Byram | CHI | 25 | 204 | 41 | 41/55/51 | 45 | 42 (42) | 50 (Oui) | **Priorité** : seul défenseur de ta liste confirmé par HLM et ESPN. Part au choix 127 selon le scénario fort |
-| 2 | Rasmus Andersson | VGK | 29 | 171 | 46 | 46/49/45 | 46 | 47 en 81 PJ (48) | 48 (Non) | Plancher le plus sûr ; bon avec l'équipe Vegas |
-| 3 | Shea Theodore | VGK | 31 | 174 | 45 | 45/61/45 | 48 | 39 en 70 PJ (46) | — | Plafond venant de HLM seulement |
-| 4 | Thomas Harley | DAL | 25 | 197 | 41 | 41/48/42 | 42 | 36 en 70 PJ (42) | 49 (PP2) | Plafond crédible |
-| 5 | Luke Hughes | NJD | 23 | 209 | 40 | 40/51/38 | 42 | 35 en 68 PJ (42) | 45 (Oui) | AN1 ; HLM à 51 |
+| 2 | **Luke Hughes** | NJD | 23 | 209 | 40 | 40/51/38 ; Dobber 47 | 45 | 35 en 68 PJ (42) | 45 (Oui) | **Monte au 2e rang** : AN1 à la place de Hamilton, confirmé par HLM (51) et Dobber (47) |
+| 3 | Rasmus Andersson | VGK | 29 | 171 | 46 | 46/49/45 | 46 | 47 en 81 PJ (48) | 48 (Non) | Plancher le plus sûr ; bon avec l'équipe Vegas |
+| 4 | Shea Theodore | VGK | 31 | 174 | 45 | 45/61/45 | 48 | 39 en 70 PJ (46) | — | Plafond venant de HLM seulement |
+| 5 | Thomas Harley | DAL | 25 | 197 | 41 | 41/48/42 | 42 | 36 en 70 PJ (42) | 49 (PP2) | Plafond crédible |
 | 6 | Cole Hutson | WSH | 20 | 206 | 40 | 40/50/— | 42 | 10 en 14 PJ (59) | — | Petit échantillon, gros potentiel |
 | — | Filip Hronek | VAN | 28 | 161 | 48 | 48/44/50 | 48 | 49 en 82 PJ (49) | — | S'il reste : plancher stable, équipe faible |
 
@@ -383,15 +443,21 @@ Avec la surenchère, ces défenseurs partent normalement dès les rondes 3 à 5.
   - Le kit (10 points, rang 610) est dépassé : ceux qui s'y fient ne le verront pas.
   - Les poolers à l'affût des nouvelles et en manque de défenseurs, eux, oui.
   - Cible : **rondes 10 à 12**, comme 3e défenseur à potentiel.
-- **Broberg** (rang D 61, vers la ronde 12) et **Drysdale** (D 67, vers la ronde 13).
-- **Buium, Parekh et Ufko :** derniers choix seulement. Ufko n'a qu'un rôle de réserviste au kit (34 matchs).
+- **Simon Nemec (CGY) : nouveau sleeper révélé par Dobber.**
+  - Dobber le voit à 46 points en 78 matchs, contre 24 au kit (rang 384).
+  - Il a fait 26 points en 68 matchs la saison dernière, avec 19:40 de temps de glace.
+  - Personne ne le prendra avant la ronde 12. Cible : **rondes 11 à 13**, juste après Cagnoni.
+- **Drysdale** (D 67, vers la ronde 13) : Dobber l'estime à 36 points et voit une percée possible après 180 minutes d'AN l'an dernier. Il remplace Broberg comme pari de la ronde 13.
+- **Noah Hanifin (VGK)** : Dobber l'estime à 40 points (kit 32, rang 277). C'est un 3e défenseur tardif qui va bien avec l'équipe Vegas.
+- **Broberg : rétrogradé.** Dobber l'estime à 31, exactement comme le kit, donc aucun avantage. Dobber suggère plutôt **Logan Mailloux** (STL, rang 533, 15 points au kit), à prendre en dernière ronde.
+- **Buium** (plancher de 32 selon Dobber, plus s'il obtient l'AN1), **Parekh et Ufko :** derniers choix seulement. Ufko n'a qu'un rôle de réserviste au kit (34 matchs).
 - **T.J. Hughes (COL, AN1)** : absent du kit, donc dernière ronde. Vérifie d'abord qu'il est sélectionnable dans PoolExpert.
 
 ### Ordre suggéré selon ta position
 
-1. **Positions 19-21 (dos à dos) :** deux défenseurs élites aux rondes 1 et 2, parmi Werenski, Q. Hughes, Fox et Makar. Ensuite, pas besoin de défenseur aux rondes 6 à 8 : ton 3e défenseur peut attendre Byram en ronde 7 s'il est encore là, sinon Cagnoni aux rondes 10 à 12. Le 3e défenseur ne joue que s'il bat un attaquant à 42 points.
+1. **Positions 19-21 (dos à dos) :** deux défenseurs élites aux rondes 1 et 2, parmi Werenski, Q. Hughes (Dobber 87), Fox et Makar. Seule alternative crédible en ronde 1 : Marner (Dobber 99). Ensuite, pas besoin de défenseur aux rondes 6 à 8 : ton 3e défenseur peut attendre Byram ou Luke Hughes en ronde 7 s'ils sont encore là, sinon Cagnoni ou Nemec aux rondes 10 à 13. Le 3e défenseur ne joue que s'il bat un attaquant à 42 points. Utilise tes rondes 5 à 8 pour les attaquants appuyés par Dobber : Fantilli, Michkov, Peterka ou Evangelista, McKenna, puis Coronato.
 2. **Positions 6-18 :** même logique si deux défenseurs élites tombent à tes choix des rondes 1 et 2. Sinon, un défenseur élite en ronde 1, puis Byram, Andersson ou Harley en ronde 7.
-3. **Positions 1-5 :** attaquant élite en ronde 1. Défenseur 1 en ronde 3 ou 4 (Dahlin, Raddysh, Carlson, Josi, Heiskanen), défenseur 2 en ronde 6 ou 7 (LaCombe, Gostisbehere, Faber, Byram), défenseur 3 aux rondes 10 à 12 (Cagnoni, Chabot, Clarke).
+3. **Positions 1-5 :** attaquant élite en ronde 1. Défenseur 1 en ronde 3 ou 4 (Dahlin, Raddysh, Carlson, Josi, Heiskanen), défenseur 2 en ronde 6 ou 7 (LaCombe, Gostisbehere, Faber, Byram), défenseur 3 aux rondes 10 à 13 (Cagnoni, Nemec, Chabot, Clarke).
 
 ## Points à vérifier avant le repêchage
 
