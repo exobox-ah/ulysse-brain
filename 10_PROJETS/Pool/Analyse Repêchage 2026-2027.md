@@ -24,7 +24,7 @@ Préparé à partir du kit PoolExpert (`data/draftkit-fr-*.xlsx`), des Listes de
   - **Fantilli** : 79 points (kit 57, ronde 6). Le meilleur attaquant à viser aux rondes 5-6.
   - **McKenna** : 70 (kit 42, ronde 10). Avec HLM à 64, deux sources le voient maintenant bien plus haut.
   - **Michkov** : 68 (kit 51, ronde 7).
-  - **Frondell** : 65 en 82 matchs (kit 44 en 71 matchs, ronde 9) ; ton plan dit 62. À prendre en ronde 8.
+  - **Frondell** : 65 en 82 matchs (kit 44 en 71 matchs, ronde 9) ; ton plan dit 62. À prendre en ronde 8 ou 9.
   - **Marner** : 99 (kit 86, rang 19).
   - En défense : **Nemec** (46, contre 24 au kit, rang 384) et **Luke Hughes** (47, sur l'AN1 à la place de Hamilton).
   - **À éviter : Patrick Kane** (Dobber 53 en 65 matchs, contre 64 au kit).
@@ -107,7 +107,7 @@ Dobber n'a pas d'historique mesuré, et on n'a ses projections que pour 33 joueu
 | Ivar Stenberg | SJS | LW | 375 (non repêché) | 24 (52) | 65 (79) | +41 | absent | 14,4 | Plan 61 et Dobber 65 : **rondes 10 à 12** |
 | Gavin McKenna | TOR | LW | 191 (R10) | 42 (72) | 70 (82) | +28 | 42/64/42 | 6,6 | **HLM et Dobber** : à prendre **aux rondes 7 et 8** |
 | Roman Kantserov | CHI | RW | 320 (R16) | 28 (49) | 55 (82) | +27 | absent | 9,8 | Plan 45 et Dobber 55 : **rondes 12 à 14** |
-| **Anton Frondell** | CHI | C | 179 (R9) | 44 (71) | 65 (82) | +21 | 44/45/— | 5,0 | **Plan 62 et Dobber 65** ; 9 points en 12 matchs à 17:45 l'an dernier (rythme 62). **Ronde 8**, comme Coronato |
+| **Anton Frondell** | CHI | C | 179 (R9) | 44 (71) | 65 (82) | +21 | 44/45/— | 5,0 | **Plan 62 et Dobber 65** ; 9 points en 12 matchs à 17:45 l'an dernier (rythme 62). **Ronde 8 ou 9** : HLM (45) ne le voit pas, donc il est moins visible que McKenna |
 | Adam Fantilli | CBJ | C | 107 (R6) | 57 (81) | 79 (83) | +22 | 57/65/60 | 3,4 | **Priorité aux rondes 5 et 6** : HLM, ESPN et Dobber au-dessus |
 | Simon Nemec | CGY | D | 384 (non repêché) | 24 (73) | 46 (78) | +22 | absent | 10,4 | **Défenseur sleeper** ; 26 points en 68 matchs, 19:40 de temps de glace |
 | Matvei Michkov | PHI | RW | 146 (R7) | 51 (77) | 68 (83) | +17 | 51/60/55 | 4,2 | Diamant du plan confirmé : **prends-le en ronde 6** |
@@ -708,7 +708,7 @@ La question n'est pas « qui projette le plus », mais « qui ne sera plus là �
 
 | | Visible (tout le monde le voit) | Caché (kit très bas) |
 |---|---|---|
-| **Potentiel** | McKenna (Dobber 70, HLM 64), Frondell (Dobber 65, plan 62), Coronato (Dobber 57) : **prends-les maintenant** | Stenberg (kit 375), Kantserov (320), Nemec (384), Cagnoni (610), Ufko (585) : **attends** |
+| **Potentiel** | McKenna (HLM 64), Theodore (HLM 61), Coronato (HLM 50, ESPN 48) : **prends-les maintenant**. Frondell est à mi-chemin : seul Dobber et ton plan le voient haut (HLM 45), mais c'est un 3e choix au total connu ; ronde 8 ou 9 | Stenberg (kit 375), Kantserov (320), Nemec (384), Cagnoni (610), Ufko (585) : **attends** |
 | **Plancher seulement** | Peterka, Evangelista (kit R7, 53) : **zone de flottement** | Sans intérêt |
 
 1. Un attaquant à potentiel visible est là : prends-le, il ne reviendra pas.
@@ -760,7 +760,8 @@ Dobber repêchait 9e sur 14. Ses choix, comparés au rang du kit :
 | 188 | Cozens | 103 | glissé de 85 |
 | 15e-16e rondes | Hofer, Askarov | G24, G22 | Zéro gardien |
 
-- **Ta liste de défenseurs est celle d'un expert.** Hutson, Clarke et Byram aux rondes 8 à 10 : exactement ta liste. Mais aux choix 104 à 132, ce qui correspond aux **rondes 5 à 7** d'un pool de 21. Si des lecteurs de Dobber sont dans ton pool, Clarke ne se rendra pas en ronde 8.
+- **Ta liste de défenseurs est celle d'un expert.** Hutson, Clarke et Byram aux rondes 8 à 10 : exactement ta liste. Aux choix 104 à 132, ce serait les rondes 5 à 7 d'un pool de 21, mais **peu de poolers de ton pool lisent Dobber** (projections sur X, guide payant). Le marché de ton pool, c'est le kit et la Liste des listes : Clarke (kit 36, absent de la LdL) reste un choix de ronde 8.
+- **Dobber est un avantage privé.** Les joueurs que seul Dobber voit au-dessus du kit sont les plus sûrs d'attendre : Clarke, Nemec, Carlson, Stenberg, Kantserov, et Frondell (HLM 45 seulement). Ceux que HLM voit aussi (McKenna 64, Theodore 61, Benson 62) sont visibles pour tes adversaires.
 - **Les attaquants établis glissent quand les experts chassent le potentiel :** Aho, Bratt, Fox, Peterka, Cozens et même Fantilli sont partis de 24 à 85 rangs après le kit. Ça confirme la règle : les attaquants à plancher reviennent plus tard, les défenseurs de ta liste non.
 - **Fantilli au choix 149 :** il peut se rendre à ta ronde 6 ou 7. Garde-le en ronde 6, pas en ronde 5. Dobber mentionne une « saga Marchenko » à Columbus : à vérifier.
 - **Nouvelles tirées des commentaires :** Bedard est absent en début de saison (Byram baisse ; Frondell et Nazar gagnent du temps de glace au départ). Cozens devrait profiter du départ de Brady Tkachuk à Ottawa.
